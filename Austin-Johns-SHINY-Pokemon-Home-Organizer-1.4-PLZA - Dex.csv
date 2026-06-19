@@ -1,0 +1,1396 @@
+Keyword,Form name,-Form,-Gender,FormDex,Keyword,Nat,SwSh,BDSP,PLA,SV,PLZA
+Bulbasaur,,,,1,bulbasaur,0001,A068,001,,B164,148
+Ivysaur,,,,2,ivysaur,0002,A069,002,,B165,149
+Venusaur,,,,3,venusaur,0003,A070,003,,B166,150
+Venusaur,,,-f,3-f,venusaur-f,0003,A070,003,,B166,150
+Charmander,,,,4,charmander,0004,378,004,,B167,151
+Charmeleon,,,,5,charmeleon,0005,379,005,,B168,152
+Charizard,,,,6,charizard,0006,380,006,,B169,153
+Squirtle,,,,7,squirtle,0007,A071,007,,B170,154
+Wartortle,,,,8,wartortle,0008,A072,008,,B171,155
+Blastoise,,,,9,blastoise,0009,A073,009,,B172,156
+Caterpie,,,,10,caterpie,0010,013,010,,,
+Metapod,,,,11,metapod,0011,014,011,,,
+Butterfree,,,,12,butterfree,0012,015,012,,,
+Butterfree,,,-f,12-f,butterfree-f,0012,015,012,,,
+Weedle,,,,13,weedle,0013,,013,,,018
+Kakuna,,,,14,kakuna,0014,,014,,,019
+Beedrill,,,,15,beedrill,0015,,015,,,020
+Pidgey,,,,16,pidgey,0016,,016,,,021
+Pidgeotto,,,,17,pidgeotto,0017,,017,,,022
+Pidgeot,,,,18,pidgeot,0018,,018,,,023
+Rattata,Original,,,19,rattata,0019,,019,,,
+Rattata,Alolan,-1,,19-1,rattata-1,0019,,,,,
+Rattata,Original,,-f,19-f,rattata-f,0019,,019,,,
+Raticate,Original,,,20,raticate,0020,,020,,,
+Raticate,Alolan,-1,,20-1,raticate-1,0020,,,,,
+Raticate,Original,,-f,20-f,raticate-f,0020,,020,,,
+Spearow,,,,21,spearow,0021,,021,,,
+Fearow,,,,22,fearow,0022,,022,,,
+Ekans,,,,23,ekans,0023,,023,,K018,060
+Arbok,,,,24,arbok,0024,,024,,K019,061
+Pikachu,,,,25,pikachu,0025,194,025,056,P074,053
+Pikachu,Original Cap,-1,,25-1,pikachu-1,0025,,,,P074,053
+Pikachu,Hoenn Cap,-2,,25-2,pikachu-2,0025,,,,P074,053
+Pikachu,Sinnoh Cap,-3,,25-3,pikachu-3,0025,,,,P074,053
+Pikachu,Unova Cap,-4,,25-4,pikachu-4,0025,,,,P074,053
+Pikachu,Kalos Cap,-5,,25-5,pikachu-5,0025,,,,P074,053
+Pikachu,Alola Cap,-6,,25-6,pikachu-6,0025,,,,P074,053
+Pikachu,Partner Cap,-7,,25-7,pikachu-7,0025,,,,P074,053
+Pikachu,World Cap,-9,,25-9,pikachu-9,0025,,,,P074,053
+Pikachu,,,-f,25-f,pikachu-f,0025,194,025,056,P074,053
+Raichu,Original,,,26,raichu,0026,195,026,057,P075,054
+Raichu,Alolan,-1,,26-1,raichu-1,0026,195,,,P075,054
+Raichu,Original,,-f,26-f,raichu-f,0026,195,026,057,P075,054
+Sandshrew,Original,,,27,sandshrew,0027,A168,027,,K116,
+Sandshrew,Alolan,-1,,27-1,sandshrew-1,0027,A168,,,B155,
+Sandslash,Original,,,28,sandslash,0028,A169,028,,K117,
+Sandslash,Alolan,-1,,28-1,sandslash-1,0028,A169,,,B156,
+Nidoran♀,,,,29,nidoran♀,0029,C065,029,,,
+Nidorina,,,,30,nidorina,0030,C066,030,,,
+Nidoqueen,,,,31,nidoqueen,0031,C067,031,,,
+Nidoran♂,,,,32,nidoran♂,0032,C068,032,,,
+Nidorino,,,,33,nidorino,0033,C069,033,,,
+Nidoking,,,,34,nidoking,0034,C070,034,,,
+Clefairy,,,,35,clefairy,0035,255,035,200,K152,056
+Clefable,,,,36,clefable,0036,256,036,201,K153,057
+Vulpix,Original,,,37,vulpix,0037,068,037,168,K037,
+Vulpix,Alolan,-1,,37-1,vulpix-1,0037,068,,,B157,
+Ninetales,Original,,,38,ninetales,0038,069,038,169,K038,
+Ninetales,Alolan,-1,,38-1,ninetales-1,0038,069,,,B158,
+Jigglypuff,,,,39,jigglypuff,0039,A012,039,,P060,H077
+Wigglytuff,,,,40,wigglytuff,0040,A013,040,,P061,H078
+Zubat,,,,41,zubat,0041,C144,041,034,,H094
+Zubat,,,-f,41-f,zubat-f,0041,C144,041,034,,H094
+Golbat,,,,42,golbat,0042,C145,042,035,,H095
+Golbat,,,-f,42-f,golbat-f,0042,C145,042,035,,H095
+Oddish,,,,43,oddish,0043,055,043,,B062,
+Gloom,,,,44,gloom,0044,056,044,,B063,
+Gloom,,,-f,44-f,gloom-f,0044,056,044,,B063,
+Vileplume,,,,45,vileplume,0045,057,045,,B064,
+Vileplume,,,-f,45-f,vileplume-f,0045,057,045,,B064,
+Paras,,,,46,paras,0046,,046,053,,
+Parasect,,,,47,parasect,0047,,047,054,,
+Venonat,,,,48,venonat,0048,,048,,P256,
+Venomoth,,,,49,venomoth,0049,,049,,P257,
+Diglett,Original,,,50,diglett,0050,164,050,,P148,
+Diglett,Alolan,-1,,50-1,diglett-1,0050,164,,,B066,
+Dugtrio,Original,,,51,dugtrio,0051,165,051,,P149,
+Dugtrio,Alolan,-1,,51-1,dugtrio-1,0051,165,,,B067,
+Meowth,Original,,,52,meowth,0052,182,052,,P141,H004
+Meowth,Alolan,-1,,52-1,meowth-1,0052,,,,P141,H004
+Meowth,Galarian,-2,,52-2,meowth-2,0052,182,,,P141,H004
+Persian,Original,,,53,persian,0053,184,053,,P142,H005
+Persian,Alolan,-1,,53-1,persian-1,0053,,,,P142,H005
+Psyduck,,,,54,psyduck,0054,A146,054,068,P055,
+Golduck,,,,55,golduck,0055,A147,055,069,P056,
+Mankey,,,,56,mankey,0056,,056,,P158,H001
+Primeape,,,,57,primeape,0057,,057,,P159,H002
+Growlithe,Original,,,58,growlithe,0058,070,058,,P213,
+Growlithe,Hisuian,-1,,58-1,growlithe-1,0058,,,150,P213,
+Arcanine,Original,,,59,arcanine,0059,071,059,,P214,
+Arcanine,Hisuian,-1,,59-1,arcanine-1,0059,,,151,P214,
+Poliwag,,,,60,poliwag,0060,A142,060,,K039,
+Poliwhirl,,,,61,poliwhirl,0061,A143,061,,K040,
+Poliwrath,,,,62,poliwrath,0062,A144,062,,K041,
+Abra,,,,63,abra,0063,A031,063,058,,062
+Kadabra,,,,64,kadabra,0064,A032,064,059,,063
+Kadabra,,,-f,64-f,kadabra-f,0064,A032,064,059,,063
+Alakazam,,,,65,alakazam,0065,A033,065,060,,064
+Alakazam,,,-f,65-f,alakazam-f,0065,A033,065,060,,064
+Machop,,,,66,machop,0066,138,066,154,,125
+Machoke,,,,67,machoke,0067,139,067,155,,126
+Machamp,,,,68,machamp,0068,140,068,156,,127
+Bellsprout,,,,69,bellsprout,0069,,069,,K023,074
+Weepinbell,,,,70,weepinbell,0070,,070,,K024,075
+Victreebel,,,,71,victreebel,0071,,071,,K025,076
+Tentacool,,,,72,tentacool,0072,A040,072,170,B050,
+Tentacruel,,,,73,tentacruel,0073,A041,073,171,B051,
+Geodude,Original,,,74,geodude,0074,,074,046,K080,
+Geodude,Alolan,-1,,74-1,geodude-1,0074,,,,B096,
+Graveler,Original,,,75,graveler,0075,,075,047,K081,
+Graveler,Alolan,-1,,75-1,graveler-1,0075,,,,B097,
+Golem,Original,,,76,golem,0076,,076,048,K082,
+Golem,Alolan,-1,,76-1,golem-1,0076,,,,B098,
+Ponyta,Original,,,77,ponyta,0077,333,077,023,,
+Ponyta,Galarian,-1,,77-1,ponyta-1,0077,333,,,,
+Rapidash,Original,,,78,rapidash,0078,334,078,024,,
+Rapidash,Galarian,-1,,78-1,rapidash-1,0078,334,,,,
+Slowpoke,Original,,,79,slowpoke,0079,A001,079,,P324,137
+Slowpoke,Galarian,-1,,79-1,slowpoke-1,0079,A001,,,B075,137
+Slowbro,Original,,,80,slowbro,0080,A002,080,,P325,138
+Slowbro,Galarian,-1,,80-1,slowbro-1,0080,A002,,,B076,138
+Magnemite,,,,81,magnemite,0081,A105,081,177,P209,
+Magneton,,,,82,magneton,0082,A106,082,178,P210,
+Farfetch'd,Original,,,83,farfetch'd,0083,218,083,,,H007
+Farfetch'd,Galarian,-1,,83-1,farfetch'd-1,0083,218,,,,H007
+Doduo,,,,84,doduo,0084,,084,,B001,
+Doduo,,,-f,84-f,doduo-f,0084,,084,,B001,
+Dodrio,,,,85,dodrio,0085,,085,,B002,
+Dodrio,,,-f,85-f,dodrio-f,0085,,085,,B002,
+Seel,,,,86,seel,0086,,086,,B143,
+Dewgong,,,,87,dewgong,0087,,087,,B144,
+Grimer,Original,,,88,grimer,0088,,088,,P194,
+Grimer,Alolan,-1,,88-1,grimer-1,0088,,,,B068,
+Muk,Original,,,89,muk,0089,,089,,P195,
+Muk,Alolan,-1,,89-1,muk-1,0089,,,,B069,
+Shellder,,,,90,shellder,0090,150,090,,P329,
+Cloyster,,,,91,cloyster,0091,151,091,,P330,
+Gastly,,,,92,gastly,0092,141,092,136,P068,065
+Haunter,,,,93,haunter,0093,142,093,137,P069,066
+Gengar,,,,94,gengar,0094,143,094,138,P070,067
+Onix,,,,95,onix,0095,178,095,118,,197
+Drowzee,,,,96,drowzee,0096,,096,,P066,
+Hypno,,,,97,hypno,0097,,097,,P067,
+Hypno,,,-f,97-f,hypno-f,0097,,097,,P067,
+Krabby,,,,98,krabby,0098,098,098,,,
+Kingler,,,,99,kingler,0099,099,099,,,
+Voltorb,Original,,,100,voltorb,0100,,100,,P207,
+Voltorb,Hisuian,-1,,100-1,voltorb-1,0100,,,192,P207,
+Electrode,Original,,,101,electrode,0101,,101,,P208,
+Electrode,Hisuian,-1,,101-1,electrode-1,0101,,,193,P208,
+Exeggcute,,,,102,exeggcute,0102,A205,102,,B003,
+Exeggutor,Original,,,103,exeggutor,0103,A206,103,,B004,
+Exeggutor,Alolan,-1,,103-1,exeggutor-1,0103,A206,,,B004,
+Cubone,,,,104,cubone,0104,A170,104,,,H009
+Marowak,Original,,,105,marowak,0105,A171,105,,,H010
+Marowak,Alolan,-1,,105-1,marowak-1,0105,A171,,,,H010
+Hitmonlee,,,,106,hitmonlee,0106,108,106,,B093,
+Hitmonchan,,,,107,hitmonchan,0107,109,107,,B094,
+Lickitung,,,,108,lickitung,0108,A054,108,125,,
+Koffing,,,,109,koffing,0109,250,109,,K135,
+Weezing,Original,,,110,weezing,0110,251,110,,K136,
+Weezing,Galarian,-1,,110-1,weezing-1,0110,251,,,K136,
+Rhyhorn,,,,111,rhyhorn,0111,264,111,120,B005,
+Rhyhorn,,,-f,111-f,rhyhorn-f,0111,264,111,120,B005,
+Rhydon,,,,112,rhydon,0112,265,112,121,B006,
+Rhydon,,,-f,112-f,rhydon-f,0112,265,112,121,B006,
+Chansey,,,,113,chansey,0113,A007,113,087,P044,
+Tangela,,,,114,tangela,0114,A080,114,095,,
+Kangaskhan,,,,115,kangaskhan,0115,A172,115,,,223
+Horsea,,,,116,horsea,0116,A198,116,,B052,
+Seadra,,,,117,seadra,0117,A199,117,,B053,
+Goldeen,,,,118,goldeen,0118,146,118,,,
+Goldeen,,,-f,118-f,goldeen-f,0118,146,118,,,
+Seaking,,,,119,seaking,0119,147,119,,,
+Seaking,,,-f,119-f,seaking-f,0119,147,119,,,
+Staryu,,,,120,staryu,0120,A098,120,,,036
+Starmie,,,,121,starmie,0121,A099,121,,,037
+Mr. Mime,Original,,,122,mr. mime,0122,C011,122,077,,H109
+Mr. Mime,Galarian,-1,,122-1,mr. mime-1,0122,C011,,,,H109
+Scyther,,,,123,scyther,0123,A118,123,072,P260,176
+Scyther,,,-f,123-f,scyther-f,0123,A118,123,072,P260,176
+Jynx,,,,124,jynx,0124,C014,124,,,
+Electabuzz,,,,125,electabuzz,0125,C016,125,183,B011,
+Magmar,,,,126,magmar,0126,C019,126,175,B014,
+Pinsir,,,,127,pinsir,0127,A120,127,,,178
+Tauros,,,,128,tauros,0128,A116,128,,P223,
+Tauros,Paldean Combat Breed,-1,,128-1,tauros-1,0128,,,,P223,
+Tauros, Paldean Blaze Breed,-2,,128-2,tauros-2,0128,,,,P223,
+Tauros,Paldean Aqua Breed,-3,,128-3,tauros-3,0128,,,,P223,
+Magikarp,,,,129,magikarp,0129,144,129,080,P134,032
+Magikarp,,,-f,129-f,magikarp-f,0129,144,129,080,P134,032
+Gyarados,,,,130,gyarados,0130,145,130,081,P135,033
+Gyarados,,,-f,130-f,gyarados-f,0130,145,130,081,P135,033
+Lapras,,,,131,lapras,0131,361,131,,B145,
+Ditto,,,,132,ditto,0132,373,132,,P212,
+Eevee,,,,133,eevee,0133,196,133,025,P179,100
+Eevee,,,-f,133-f,eevee-f,0133,196,133,025,P179,100
+Vaporeon,,,,134,vaporeon,0134,197,134,026,P180,101
+Jolteon,,,,135,jolteon,0135,198,135,027,P181,102
+Flareon,,,,136,flareon,0136,199,136,028,P182,103
+Porygon,,,,137,porygon,0137,A208,137,133,B129,H011
+Omanyte,,,,138,omanyte,0138,C123,138,,,
+Omastar,,,,139,omastar,0139,C124,139,,,
+Kabuto,,,,140,kabuto,0140,C125,140,,,
+Kabutops,,,,141,kabutops,0141,C126,141,,,
+Aerodactyl,,,,142,aerodactyl,0142,C127,142,,,192
+Snorlax,,,,143,snorlax,0143,261,143,052,K103,
+Articuno,Original,,,144,articuno,0144,C202,144,,,
+Articuno,Galarian,-1,,144-1,articuno-1,0144,C202,,,,
+Zapdos,Original,,,145,zapdos,0145,C203,145,,,
+Zapdos,Galarian,-1,,145-1,zapdos-1,0145,C203,,,,
+Moltres,Original,,,146,moltres,0146,C204,146,,,
+Moltres,Galarian,-1,,146-1,moltres-1,0146,C204,,,,
+Dratini,,,,147,dratini,0147,C194,147,,P347,145
+Dragonair,,,,148,dragonair,0148,C195,148,,P348,146
+Dragonite,,,,149,dragonite,0149,C196,149,,P349,147
+Mewtwo,,,,150,mewtwo,0150,,150,,,
+Mew,,,,151,mew,0151,,151,,,
+Chikorita,,,,152,chikorita,0152,,152,,B173,001
+Bayleef,,,,153,bayleef,0153,,153,,B174,002
+Meganium,,,,154,meganium,0154,,154,,B175,003
+Meganium,,,-f,154-f,meganium-f,0154,,154,,B175,003
+Cyndaquil,,,,155,cyndaquil,0155,,155,004,B176,
+Quilava,,,,156,quilava,0156,,156,005,B177,
+Typhlosion,Original,,,157,typhlosion,0157,,157,,B178,
+Typhlosion,Hisuian,-1,,157-1,typhlosion-1,0157,,,006,B178,
+Totodile,,,,158,totodile,0158,,158,,B179,007
+Croconaw,,,,159,croconaw,0159,,159,,B180,008
+Feraligatr,,,,160,feraligatr,0160,,160,,B181,009
+Sentret,,,,161,sentret,0161,,161,,K026,
+Furret,,,,162,furret,0162,,162,,K027,
+Hoothoot,,,,163,hoothoot,0163,019,163,,K045,
+Noctowl,,,,164,noctowl,0164,020,164,,K046,
+Ledyba,,,,165,ledyba,0165,,165,,,
+Ledyba,,,-f,165-f,ledyba-f,0165,,165,,,
+Ledian,,,,166,ledian,0166,,166,,,
+Ledian,,,-f,166-f,ledian-f,0166,,166,,,
+Spinarak,,,,167,spinarak,0167,,167,,K001,058
+Ariados,,,,168,ariados,0168,,168,,K002,059
+Crobat,,,,169,crobat,0169,C146,169,036,,H096
+Chinchou,,,,170,chinchou,0170,220,170,,B078,
+Lanturn,,,,171,lanturn,0171,221,171,,B079,
+Pichu,,,,172,pichu,0172,193,172,055,P073,052
+Cleffa,,,,173,cleffa,0173,254,173,199,K151,055
+Igglybuff,,,,174,igglybuff,0174,A011,174,,P059,H076
+Togepi,,,,175,togepi,0175,257,175,127,,
+Togetic,,,,176,togetic,0176,258,176,128,,
+Natu,,,,177,natu,0177,092,177,,,
+Xatu,,,,178,xatu,0178,093,178,,,
+Xatu,,,-f,178-f,xatu-f,0178,093,178,,,
+Mareep,,,,179,mareep,0179,,179,,P101,024
+Flaaffy,,,,180,flaaffy,0180,,180,,P102,025
+Ampharos,,,,181,ampharos,0181,,181,,P103,026
+Bellossom,,,,182,bellossom,0182,058,182,,B065,
+Marill,,,,183,marill,0183,A140,183,,P047,
+Azumarill,,,,184,azumarill,0184,A141,184,,P048,
+Sudowoodo,,,,185,sudowoodo,0185,253,185,124,P088,
+Sudowoodo,,,-f,185-f,sudowoodo-f,0185,253,185,124,P088,
+Politoed,,,,186,politoed,0186,A145,186,,K042,
+Politoed,,,-f,186-f,politoed-f,0186,A145,186,,K042,
+Hoppip,,,,187,hoppip,0187,,187,,P016,
+Skiploom,,,,188,skiploom,0188,,188,,P017,
+Jumpluff,,,,189,jumpluff,0189,,189,,P018,
+Aipom,,,,190,aipom,0190,,190,078,K047,
+Aipom,,,-f,190-f,aipom-f,0190,,190,078,K047,
+Sunkern,,,,191,sunkern,0191,,191,,P031,
+Sunflora,,,,192,sunflora,0192,,192,,P032,
+Yanma,,,,193,yanma,0193,,193,105,K003,
+Wooper,Original,,,194,wooper,0194,100,194,,P053,
+Wooper,Paldean,-1,,194-1,wooper-1,0194,,,,P053,
+Wooper,Original,,-f,194-f,wooper-f,0194,100,194,,P053,
+Quagsire,,,,195,quagsire,0195,101,195,,K006,
+Quagsire,,,-f,195-f,quagsire-f,0195,101,195,,K006,
+Espeon,,,,196,espeon,0196,200,196,029,P183,104
+Umbreon,,,,197,umbreon,0197,201,197,030,P184,105
+Murkrow,,,,198,murkrow,0198,,198,140,P232,
+Murkrow,,,-f,198-f,murkrow-f,0198,,198,140,P232,
+Slowking,Original,,,199,slowking,0199,A003,199,,P326,139
+Slowking,Galarian,-1,,199-1,slowking-1,0199,A003,,,B077,139
+Misdreavus,,,,200,misdreavus,0200,,200,197,P114,
+Unown,a,,,201,unown,0201,,201,142,,
+Unown,b,-1,,201-1,unown-1,0201,,201,142,,
+Unown,k,-10,,201-10,unown-10,0201,,201,142,,
+Unown,l,-11,,201-11,unown-11,0201,,201,142,,
+Unown,m,-12,,201-12,unown-12,0201,,201,142,,
+Unown,n,-13,,201-13,unown-13,0201,,201,142,,
+Unown,o,-14,,201-14,unown-14,0201,,201,142,,
+Unown,p,-15,,201-15,unown-15,0201,,201,142,,
+Unown,q,-16,,201-16,unown-16,0201,,201,142,,
+Unown,r,-17,,201-17,unown-17,0201,,201,142,,
+Unown,s,-18,,201-18,unown-18,0201,,201,142,,
+Unown,t,-19,,201-19,unown-19,0201,,201,142,,
+Unown,c,-2,,201-2,unown-2,0201,,201,142,,
+Unown,u,-20,,201-20,unown-20,0201,,201,142,,
+Unown,v,-21,,201-21,unown-21,0201,,201,142,,
+Unown,w,-22,,201-22,unown-22,0201,,201,142,,
+Unown,x,-23,,201-23,unown-23,0201,,201,142,,
+Unown,y,-24,,201-24,unown-24,0201,,201,142,,
+Unown,z,-25,,201-25,unown-25,0201,,201,142,,
+Unown,!,-26,,201-26,unown-26,0201,,201,142,,
+Unown,?,-27,,201-27,unown-27,0201,,201,142,,
+Unown,d,-3,,201-3,unown-3,0201,,201,142,,
+Unown,e,-4,,201-4,unown-4,0201,,201,142,,
+Unown,f,-5,,201-5,unown-5,0201,,201,142,,
+Unown,g,-6,,201-6,unown-6,0201,,201,142,,
+Unown,h,-7,,201-7,unown-7,0201,,201,142,,
+Unown,i,-8,,201-8,unown-8,0201,,201,142,,
+Unown,j,-9,,201-9,unown-9,0201,,201,142,,
+Wobbuffet,,,,202,wobbuffet,0202,217,202,,,
+Wobbuffet,,,-f,202-f,wobbuffet-f,0202,217,202,,,
+Girafarig,,,,203,girafarig,0203,,203,,P192,
+Girafarig,,,-f,203-f,girafarig-f,0203,,203,,P192,
+Pineco,,,,204,pineco,0204,,204,,P258,
+Forretress,,,,205,forretress,0205,,205,,P259,
+Dunsparce,,,,206,dunsparce,0206,A052,206,,P188,
+Gligar,,,,207,gligar,0207,,207,185,K121,
+Gligar,,,-f,207-f,gligar-f,0207,,207,185,K121,
+Steelix,,,,208,steelix,0208,179,208,119,,198
+Steelix,,,-f,208-f,steelix-f,0208,179,208,119,,198
+Snubbull,,,,209,snubbull,0209,,209,,B151,
+Granbull,,,,210,granbull,0210,,210,,B152,
+Qwilfish,Original,,,211,qwilfish,0211,304,211,,P331,H037
+Qwilfish,Hisuian,-1,,211-1,qwilfish-1,0211,,,084,B146,H037
+Scizor,,,,212,scizor,0212,A119,212,074,P261,177
+Scizor,,,-f,212-f,scizor-f,0212,A119,212,074,P261,177
+Shuckle,,,,213,shuckle,0213,227,213,,,
+Heracross,,,,214,heracross,0214,A121,214,075,P262,179
+Heracross,,,-f,214-f,heracross-f,0214,A121,214,075,P262,179
+Sneasel,Original,,,215,sneasel,0215,292,215,,P230,
+Sneasel,Hisuian,-1,,215-1,sneasel-1,0215,,,202,P230,
+Sneasel,Hisuian,-1,-f,215-1-f,sneasel-1-f,0215,,,202,P230,
+Sneasel,Original,,-f,215-f,sneasel-f,0215,292,215,,P230,
+Teddiursa,,,,216,teddiursa,0216,,216,112,P215,
+Ursaring,,,,217,ursaring,0217,,217,113,P216,
+Ursaring,,,-f,217-f,ursaring-f,0217,,217,113,P216,
+Slugma,,,,218,slugma,0218,,218,,K144,
+Magcargo,,,,219,magcargo,0219,,219,,K145,
+Swinub,,,,220,swinub,0220,075,220,212,K050,
+Piloswine,,,,221,piloswine,0221,076,221,213,K051,
+Piloswine,,,-f,221-f,piloswine-f,0221,076,221,213,K051,
+Corsola,Original,,,222,corsola,0222,236,222,,,
+Corsola,Galarian,-1,,222-1,corsola-1,0222,236,,,,
+Remoraid,,,,223,remoraid,0223,148,223,146,,
+Octillery,,,,224,octillery,0224,149,224,147,,
+Octillery,,,-f,224-f,octillery-f,0224,149,224,147,,
+Delibird,,,,225,delibird,0225,078,225,,P354,168
+Mantine,,,,226,mantine,0226,355,226,165,,
+Skarmory,,,,227,skarmory,0227,A153,227,,B113,216
+Houndour,,,,228,houndour,0228,,228,,P025,091
+Houndoom,,,,229,houndoom,0229,,229,,P026,092
+Houndoom,,,-f,229-f,houndoom-f,0229,,229,,P026,092
+Kingdra,,,,230,kingdra,0230,A200,230,,B054,
+Phanpy,,,,231,phanpy,0231,,231,,P122,
+Donphan,,,,232,donphan,0232,,232,,P123,
+Donphan,,,-f,232-f,donphan-f,0232,,232,,P123,
+Porygon2,,,,233,porygon2,0233,A209,233,134,B130,H012
+Stantler,,,,234,stantler,0234,,234,049,P204,
+Smeargle,,,,235,smeargle,0235,,235,,B040,
+Tyrogue,,,,236,tyrogue,0236,107,236,,B092,
+Hitmontop,,,,237,hitmontop,0237,110,237,,B095,
+Smoochum,,,,238,smoochum,0238,C013,238,,,
+Elekid,,,,239,elekid,0239,C015,239,182,B010,
+Magby,,,,240,magby,0240,C018,240,174,B013,
+Miltank,,,,241,miltank,0241,A117,241,,,
+Blissey,,,,242,blissey,0242,A008,242,088,P045,
+Raikou,,,,243,raikou,0243,,243,,,
+Entei,,,,244,entei,0244,,244,,,
+Suicune,,,,245,suicune,0245,,245,,,
+Larvitar,,,,246,larvitar,0246,383,246,,P316,206
+Pupitar,,,,247,pupitar,0247,384,247,,P317,207
+Tyranitar,,,,248,tyranitar,0248,385,248,,P318,208
+Lugia,,,,249,lugia,0249,,249,,,
+Ho-Oh,,,,250,ho-oh,0250,,250,,,
+Celebi,,,,251,celebi,0251,,,,,
+Treecko,,,,252,treecko,0252,,252,,B182,H039
+Grovyle,,,,253,grovyle,0253,,253,,B183,H040
+Sceptile,,,,254,sceptile,0254,,254,,B184,H041
+Torchic,,,,255,torchic,0255,,255,,B185,H042
+Torchic,,,-f,255-f,torchic-f,0255,,255,,B185,H042
+Combusken,,,,256,combusken,0256,,256,,B186,H043
+Combusken,,,-f,256-f,combusken-f,0256,,256,,B186,H043
+Blaziken,,,,257,blaziken,0257,,257,,B187,H044
+Blaziken,,,-f,257-f,blaziken-f,0257,,257,,B187,H044
+Mudkip,,,,258,mudkip,0258,,258,,B188,H045
+Marshtomp,,,,259,marshtomp,0259,,259,,B189,H046
+Swampert,,,,260,swampert,0260,,260,,B190,H047
+Poochyena,,,,261,poochyena,0261,,261,,K007,
+Mightyena,,,,262,mightyena,0262,,262,,K008,
+Zigzagoon,Original,,,263,zigzagoon,0263,031,263,,,
+Zigzagoon,Galarian,-1,,263-1,zigzagoon-1,0263,031,,,,
+Linoone,Original,,,264,linoone,0264,032,264,,,
+Linoone,Galarian,-1,,264-1,linoone-1,0264,032,,,,
+Wurmple,,,,265,wurmple,0265,,265,018,,
+Silcoon,,,,266,silcoon,0266,,266,019,,
+Beautifly,,,,267,beautifly,0267,,267,020,,
+Beautifly,,,-f,267-f,beautifly-f,0267,,267,020,,
+Cascoon,,,,268,cascoon,0268,,268,021,,
+Dustox,,,,269,dustox,0269,,269,022,,
+Dustox,,,-f,269-f,dustox-f,0269,,269,022,,
+Lotad,,,,270,lotad,0270,036,270,,K104,
+Lombre,,,,271,lombre,0271,037,271,,K105,
+Ludicolo,,,,272,ludicolo,0272,038,272,,K106,
+Ludicolo,,,-f,272-f,ludicolo-f,0272,038,272,,K106,
+Seedot,,,,273,seedot,0273,039,273,,K054,
+Nuzleaf,,,,274,nuzleaf,0274,040,274,,K055,
+Nuzleaf,evo m,,-f,274-f,nuzleaf-f,0274,040,274,,K055,
+Shiftry,,,,275,shiftry,0275,041,275,,K056,
+Shiftry,,,-f,275-f,shiftry-f,0275,041,275,,K056,
+Taillow,,,,276,taillow,0276,,276,,,
+Swellow,,,,277,swellow,0277,,277,,,
+Wingull,,,,278,wingull,0278,062,278,,P132,
+Pelipper,,,,279,pelipper,0279,063,279,,P133,
+Ralts,,,,280,ralts,0280,120,280,101,P062,087
+Kirlia,,,,281,kirlia,0281,121,281,102,P063,088
+Gardevoir,,,,282,gardevoir,0282,122,282,103,P064,089
+Surskit,,,,283,surskit,0283,,283,,P049,
+Masquerain,,,,284,masquerain,0284,,284,,P050,
+Shroomish,,,,285,shroomish,0285,,285,,P106,
+Breloom,,,,286,breloom,0286,,286,,P107,
+Slakoth,,,,287,slakoth,0287,,287,,P078,
+Vigoroth,,,,288,vigoroth,0288,,288,,P079,
+Slaking,,,,289,slaking,0289,,289,,P080,
+Nincada,,,,290,nincada,0290,104,290,,,
+Ninjask,,,,291,ninjask,0291,105,291,,,
+Shedinja,,,,292,shedinja,0292,106,292,,,
+Whismur,,,,293,whismur,0293,A148,293,,,
+Loudred,,,,294,loudred,0294,A149,294,,,
+Exploud,,,,295,exploud,0295,A150,295,,,
+Makuhita,,,,296,makuhita,0296,,296,,P116,
+Hariyama,,,,297,hariyama,0297,,297,,P117,
+Azurill,,,,298,azurill,0298,A139,298,,P046,
+Nosepass,,,,299,nosepass,0299,,299,190,K107,
+Skitty,,,,300,skitty,0300,,300,,,
+Delcatty,,,,301,delcatty,0301,,301,,,
+Sableye,,,,302,sableye,0302,294,302,,P297,132
+Mawile,,,,303,mawile,0303,295,303,,,133
+Aron,,,,304,aron,0304,C191,304,,,199
+Lairon,,,,305,lairon,0305,C192,305,,,200
+Aggron,,,,306,aggron,0306,C193,306,,,201
+Meditite,,,,307,meditite,0307,,307,,P161,083
+Meditite,,,-f,307-f,meditite-f,0307,,307,,P161,083
+Medicham,,,,308,medicham,0308,,308,,P162,084
+Medicham,,,-f,308-f,medicham-f,0308,,308,,P162,084
+Electrike,,,,309,electrike,0309,066,309,,,085
+Manectric,,,,310,manectric,0310,067,310,,,086
+Plusle,,,,311,plusle,0311,,311,,B119,
+Minun,,,,312,minun,0312,,312,,B120,
+Volbeat,,,,313,volbeat,0313,,313,,K009,
+Illumise,,,,314,illumise,0314,,314,,K010,
+Roselia,,,,315,roselia,0315,060,315,090,,030
+Roselia,,,-f,315-f,roselia-f,0315,060,315,090,,030
+Gulpin,,,,316,gulpin,0316,,316,,P139,H092
+Gulpin,,,-f,316-f,gulpin-f,0316,,316,,P139,H092
+Swalot,,,,317,swalot,0317,,317,,P140,H093
+Swalot,,,-f,317-f,swalot-f,0317,,317,,P140,H093
+Carvanha,,,,318,carvanha,0318,A111,318,,,140
+Sharpedo,,,,319,sharpedo,0319,A112,319,,,141
+Wailmer,,,,320,wailmer,0320,356,320,,,
+Wailord,,,,321,wailord,0321,357,321,,,
+Numel,,,,322,numel,0322,,322,,P151,116
+Numel,,,-f,322-f,numel-f,0322,,322,,P151,116
+Camerupt,,,,323,camerupt,0323,,323,,P152,117
+Camerupt,,,-f,323-f,camerupt-f,0323,,323,,P152,117
+Torkoal,,,,324,torkoal,0324,300,324,,P150,
+Spoink,,,,325,spoink,0325,,325,,P111,H084
+Grumpig,,,,326,grumpig,0326,,326,,P112,H085
+Spinda,,,,327,spinda,0327,,327,,,
+Trapinch,,,,328,trapinch,0328,321,328,,B044,
+Vibrava,,,,329,vibrava,0329,322,329,,B045,
+Flygon,,,,330,flygon,0330,323,330,,B046,
+Cacnea,,,,331,cacnea,0331,,331,,P252,
+Cacturne,,,,332,cacturne,0332,,332,,P253,
+Cacturne,,,-f,332-f,cacturne-f,0332,,332,,P253,
+Swablu,,,,333,swablu,0333,C035,333,,P219,093
+Altaria,,,,334,altaria,0334,C036,334,,P220,094
+Zangoose,,,,335,zangoose,0335,,335,,P217,H106
+Seviper,,,,336,seviper,0336,,336,,P218,H107
+Lunatone,,,,337,lunatone,0337,362,337,,,
+Solrock,,,,338,solrock,0338,363,338,,,
+Barboach,,,,339,barboach,0339,228,339,097,P168,
+Whiscash,,,,340,whiscash,0340,229,340,098,P169,
+Corphish,,,,341,corphish,0341,102,341,,K011,
+Crawdaunt,,,,342,crawdaunt,0342,103,342,,K012,
+Baltoy,,,,343,baltoy,0343,082,343,,,
+Claydol,,,,344,claydol,0344,083,344,,,
+Lileep,,,,345,lileep,0345,C183,345,,,
+Cradily,,,,346,cradily,0346,C184,346,,,
+Anorith,,,,347,anorith,0347,C185,347,,,
+Armaldo,,,,348,armaldo,0348,C186,348,,,
+Feebas,,,,349,feebas,0349,152,349,,K158,H048
+Milotic,,,,350,milotic,0350,153,350,,K159,H049
+Milotic,,,-f,350-f,milotic-f,0350,153,350,,K159,H049
+Castform,,,,351,castform,0351,,351,,,
+Kecleon,,,,352,kecleon,0352,,352,,,H027
+Shuppet,,,,353,shuppet,0353,,353,,P298,111
+Banette,,,,354,banette,0354,,354,,P299,112
+Duskull,,,,355,duskull,0355,135,355,158,K139,
+Dusclops,,,,356,dusclops,0356,136,356,159,K140,
+Tropius,,,,357,tropius,0357,,357,,P246,
+Chimecho,,,,358,chimecho,0358,,358,196,K143,H051
+Absol,,,,359,absol,0359,C107,359,,,134
+Wynaut,,,,360,wynaut,0360,216,360,,,
+Snorunt,,,,361,snorunt,0361,079,361,205,P357,169
+Glalie,,,,362,glalie,0362,080,362,206,P358,170
+Spheal,,,,363,spheal,0363,C159,363,143,,
+Sealeo,,,,364,sealeo,0364,C160,364,144,,
+Walrein,,,,365,walrein,0365,C161,365,145,,
+Clamperl,,,,366,clamperl,0366,,366,,,
+Huntail,,,,367,huntail,0367,,367,,,
+Gorebyss,,,,368,gorebyss,0368,,368,,,
+Relicanth,,,,369,relicanth,0369,C187,369,,,
+Relicanth,,,-f,369-f,relicanth-f,0369,C187,369,,,
+Luvdisc,,,,370,luvdisc,0370,,370,,P332,
+Bagon,,,,371,bagon,0371,C113,371,,P276,220
+Shelgon,,,,372,shelgon,0372,C114,372,,P277,221
+Salamence,,,,373,salamence,0373,C115,373,,P278,222
+Beldum,,,,374,beldum,0374,C129,374,,B137,225
+Metang,,,,375,metang,0375,C130,375,,B138,226
+Metagross,,,,376,metagross,0376,C131,376,,B139,227
+Regirock,,,,377,regirock,0377,C197,377,,,
+Regice,,,,378,regice,0378,C198,378,,,
+Registeel,,,,379,registeel,0379,C199,379,,,
+Latias,,,,380,latias,0380,,380,,,H126
+Latios,,,,381,latios,0381,,381,,,H127
+Kyogre,,,,382,kyogre,0382,,382,,,H128
+Groudon,,,,383,groudon,0383,,383,,,H129
+Rayquaza,,,,384,rayquaza,0384,,384,,,H130
+Jirachi,,,,385,jirachi,0385,,385,,,
+Deoxys,Normal,,,386,deoxys,0386,,386,,,
+Deoxys,Attack,-1,,386-1,deoxys-1,0386,,386,,,
+Deoxys,Defense,-2,,386-2,deoxys-2,0386,,386,,,
+Deoxys,Speed,-3,,386-3,deoxys-3,0386,,386,,,
+Turtwig,,,,387,turtwig,0387,,387,130,B191,
+Grotle,,,,388,grotle,0388,,388,131,B192,
+Torterra,,,,389,torterra,0389,,389,132,B193,
+Chimchar,,,,390,chimchar,0390,,390,061,B194,
+Monferno,,,,391,monferno,0391,,391,062,B195,
+Infernape,,,,392,infernape,0392,,392,063,B196,
+Piplup,,,,393,piplup,0393,,393,161,B197,
+Prinplup,,,,394,prinplup,0394,,394,162,B198,
+Empoleon,,,,395,empoleon,0395,,395,163,B199,
+Starly,,,,396,starly,0396,,396,012,P097,H081
+Starly,,,-f,396-f,starly-f,0396,,396,012,P097,H081
+Staravia,,,,397,staravia,0397,,397,013,P098,H082
+Staravia,,,-f,397-f,staravia-f,0397,,397,013,P098,H082
+Staraptor,,,,398,staraptor,0398,,398,014,P099,H083
+Staraptor,,,-f,398-f,staraptor-f,0398,,398,014,P099,H083
+Bidoof,,,,399,bidoof,0399,,399,010,,
+Bidoof,,,-f,399-f,bidoof-f,0399,,399,010,,
+Bibarel,,,,400,bibarel,0400,,400,011,,
+Bibarel,,,-f,400-f,bibarel-f,0400,,400,011,,
+Kricketot,,,,401,kricketot,0401,,401,039,P033,
+Kricketot,,,-f,401-f,kricketot-f,0401,,401,039,P033,
+Kricketune,,,,402,kricketune,0402,,402,040,P034,
+Kricketune,,,-f,402-f,kricketune-f,0402,,402,040,P034,
+Shinx,,,,403,shinx,0403,A025,403,015,P094,
+Shinx,,,-f,403-f,shinx-f,0403,A025,403,015,P094,
+Luxio,,,,404,luxio,0404,A026,404,016,P095,
+Luxio,,,-f,404-f,luxio-f,0404,A026,404,016,P095,
+Luxray,,,,405,luxray,0405,A027,405,017,P096,
+Luxray,,,-f,405-f,luxray-f,0405,A027,405,017,P096,
+Budew,,,,406,budew,0406,059,406,089,,029
+Roserade,,,,407,roserade,0407,061,407,091,,031
+Roserade,,,-f,407-f,roserade-f,0407,061,407,091,,031
+Cranidos,,,,408,cranidos,0408,,408,208,B107,
+Rampardos,,,,409,rampardos,0409,,409,209,B108,
+Shieldon,,,,410,shieldon,0410,,410,210,B109,
+Bastiodon,,,,411,bastiodon,0411,,411,211,B110,
+Burmy,Plant,,,412,burmy,0412,,412,043,,
+Burmy,Sandy,-1,,412-1,burmy-1,0412,,412,043,,
+Burmy,Trash,-2,,412-2,burmy-2,0412,,412,043,,
+Wormadam,Plant,,,413,wormadam,0413,,413,044,,
+Wormadam,Sandy,-1,,413-1,wormadam-1,0413,,413,044,,
+Wormadam,Trash,-2,,413-2,wormadam-2,0413,,413,044,,
+Mothim,,,,414,mothim,0414,,414,045,,
+Combee,,,,415,combee,0415,116,415,070,P038,
+Combee,,,-f,415-f,combee-f,0415,116,415,070,P038,
+Vespiquen,,,,416,vespiquen,0416,117,416,071,P039,
+Pachirisu,,,,417,pachirisu,0417,,417,109,P201,
+Pachirisu,,,-f,417-f,pachirisu-f,0417,,417,109,P201,
+Buizel,,,,418,buizel,0418,,418,041,P051,
+Buizel,,,-f,418-f,buizel-f,0418,,418,041,P051,
+Floatzel,,,,419,floatzel,0419,,419,042,P052,
+Floatzel,,,-f,419-f,floatzel-f,0419,,419,042,P052,
+Cherubi,,,,420,cherubi,0420,128,420,066,,
+Cherrim,,,,421,cherrim,0421,129,421,067,,
+Shellos,West Sea,,,422,shellos,0422,230,422,082,P327,
+Shellos,East Sea,,-1,422-1,shellos-1,0422,230,422,082,P327,
+Gastrodon,West Sea,,,423,gastrodon,0423,231,423,083,P328,
+Gastrodon,East Sea,,-1,423-1,gastrodon-1,0423,231,423,083,P328,
+Ambipom,,,,424,ambipom,0424,,424,079,K048,
+Ambipom,,,-f,424-f,ambipom-f,0424,,424,079,K048,
+Drifloon,,,,425,drifloon,0425,124,425,037,P143,
+Drifblim,,,,426,drifblim,0426,125,426,038,P144,
+Buneary,,,,427,buneary,0427,A004,427,064,,109
+Lopunny,,,,428,lopunny,0428,A005,428,065,,110
+Mismagius,,,,429,mismagius,0429,,429,198,P115,
+Honchkrow,,,,430,honchkrow,0430,,430,141,P233,
+Glameow,,,,431,glameow,0431,,431,152,,
+Purugly,,,,432,purugly,0432,,432,153,,
+Chingling,,,,433,chingling,0433,,433,195,K142,H050
+Stunky,,,,434,stunky,0434,130,434,110,P226,
+Skuntank,,,,435,skuntank,0435,131,435,111,P227,
+Bronzor,,,,436,bronzor,0436,118,436,180,P153,
+Bronzong,,,,437,bronzong,0437,119,437,181,P154,
+Bonsly,,,,438,bonsly,0438,252,438,123,P087,
+Mime Jr.,,,,439,mime jr.,0439,C010,439,076,,H108
+Happiny,,,,440,happiny,0440,A006,440,086,P043,
+Chatot,,,,441,chatot,0441,,441,157,,
+Spiritomb,,,,442,spiritomb,0442,C047,442,139,P302,
+Gible,,,,443,gible,0443,C116,443,187,P126,128
+Gible,,,-f,443-f,gible-f,0443,C116,443,187,P126,128
+Gabite,,,,444,gabite,0444,C117,444,188,P127,129
+Gabite,,,-f,444-f,gabite-f,0444,C117,444,188,P127,129
+Garchomp,,,,445,garchomp,0445,C118,445,189,P128,130
+Garchomp,,,-f,445-f,garchomp-f,0445,C118,445,189,P128,130
+Munchlax,,,,446,munchlax,0446,260,446,051,K102,
+Riolu,,,,447,riolu,0447,298,447,223,P163,135
+Lucario,,,,448,lucario,0448,299,448,224,P164,136
+Hippopotas,,,,449,hippopotas,0449,314,449,107,P265,118
+Hippopotas,,,-f,449-f,hippopotas-f,0449,314,449,107,P265,118
+Hippowdon,,,,450,hippowdon,0450,315,450,108,P266,119
+Hippowdon,,,-f,450-f,hippowdon-f,0450,315,450,108,P266,119
+Skorupi,,,,451,skorupi,0451,285,451,148,,
+Drapion,,,,452,drapion,0452,286,452,149,,
+Croagunk,,,,453,croagunk,0453,222,453,099,P175,
+Croagunk,,,-f,453-f,croagunk-f,0453,222,453,099,P175,
+Toxicroak,,,,454,toxicroak,0454,223,454,100,P176,
+Toxicroak,,,-f,454-f,toxicroak-f,0454,223,454,100,P176,
+Carnivine,,,,455,carnivine,0455,,455,092,,
+Finneon,,,,456,finneon,0456,,456,172,P333,
+Finneon,,,-f,456-f,finneon-f,0456,,456,172,P333,
+Lumineon,,,,457,lumineon,0457,,457,173,P334,
+Lumineon,,,-f,457-f,lumineon-f,0457,,457,173,P334,
+Mantyke,,,,458,mantyke,0458,354,458,164,,
+Snover,,,,459,snover,0459,096,459,217,P352,172
+Snover,,,-f,459-f,snover-f,0459,096,459,217,P352,172
+Abomasnow,,,,460,abomasnow,0460,097,460,218,P353,173
+Abomasnow,,,-f,460-f,abomasnow-f,0460,097,460,218,P353,173
+Weavile,,,,461,weavile,0461,293,461,204,P231,
+Weavile,,,-f,461-f,weavile-f,0461,293,461,204,P231,
+Magnezone,,,,462,magnezone,0462,A107,462,179,P211,
+Lickilicky,,,,463,lickilicky,0463,A055,463,126,,
+Rhyperior,,,,464,rhyperior,0464,266,464,122,B007,
+Rhyperior,,,-f,464-f,rhyperior-f,0464,266,464,122,B007,
+Tangrowth,,,,465,tangrowth,0465,A081,465,096,,
+Tangrowth,,,-f,465-f,tangrowth-f,0465,A081,465,096,,
+Electivire,,,,466,electivire,0466,C017,466,184,B012,
+Magmortar,,,,467,magmortar,0467,C020,467,176,B015,
+Togekiss,,,,468,togekiss,0468,259,468,129,,
+Yanmega,,,,469,yanmega,0469,,469,106,K004,
+Leafeon,,,,470,leafeon,0470,202,470,031,P185,106
+Glaceon,,,,471,glaceon,0471,203,471,032,P186,107
+Gliscor,,,,472,gliscor,0472,,472,186,K122,
+Mamoswine,,,,473,mamoswine,0473,077,473,214,K052,
+Mamoswine,,,-f,473-f,mamoswine-f,0473,077,473,214,K052,
+Porygon-Z,,,,474,porygon-z,0474,A210,474,135,B131,H013
+Gallade,,,,475,gallade,0475,123,475,104,P065,090
+Probopass,,,,476,probopass,0476,,476,191,K108,
+Dusknoir,,,,477,dusknoir,0477,137,477,160,K141,
+Froslass,,,,478,froslass,0478,081,478,207,P359,171
+Rotom,Normal,,,479,rotom,0479,372,479,194,P310,H022
+Rotom,Heat,-1,,479-1,rotom-1,0479,372,479,194,P310,H022
+Rotom,Wash,-2,,479-2,rotom-2,0479,372,479,194,P310,H022
+Rotom,Frost,-3,,479-3,rotom-3,0479,372,479,194,P310,H022
+Rotom,Fan,-4,,479-4,rotom-4,0479,372,479,194,P310,H022
+Rotom,Mow,-5,,479-5,rotom-5,0479,372,479,194,P310,H022
+Uxie,,,,480,uxie,0480,,480,225,,
+Mesprit,,,,481,mesprit,0481,,481,226,,
+Azelf,,,,482,azelf,0482,,482,227,,
+Dialga,Normal,,,483,dialga,0483,,483,235,,
+Palkia,Normal,,,484,palkia,0484,,484,236,,
+Heatran,,,,485,heatran,0485,,485,228,,H113
+Regigigas,,,,486,regigigas,0486,,486,229,,
+Giratina,Normal,,,487,giratina,0487,,487,237,,
+Cresselia,,,,488,cresselia,0488,,488,230,,
+Phione,,,,489,phione,0489,,489,239,,
+Manaphy,,,,490,manaphy,0490,,490,240,,
+Darkrai,,,,491,darkrai,0491,,491,242,,H125
+Shaymin,Normal,,,492,shaymin,0492,,492,241,,
+Shaymin,Sky,-1,,492-1,shaymin-1,0492,,492,241,,
+Arceus,,,,493,arceus,0493,,493,238,,
+Victini,,,,494,victini,0494,,,,,
+Snivy,,,,495,snivy,0495,,,,B200,
+Servine,,,,496,servine,0496,,,,B201,
+Serperior,,,,497,serperior,0497,,,,B202,
+Tepig,,,,498,tepig,0498,,,,B203,004
+Pignite,,,,499,pignite,0499,,,,B204,005
+Emboar,,,,500,emboar,0500,,,,B205,006
+Oshawott,,,,501,oshawott,0501,,,007,B206,
+Dewott,,,,502,dewott,0502,,,008,B207,
+Samurott,Original,,,503,samurott,0503,,,,B208,
+Samurott,Hisuian,-1,,503-1,samurott-1,0503,,,009,B208,
+Patrat,,,,504,patrat,0504,,,,,027
+Watchog,,,,505,watchog,0505,,,,,028
+Lillipup,,,,506,lillipup,0506,A113,,,,
+Herdier,,,,507,herdier,0507,A114,,,,
+Stoutland,,,,508,stoutland,0508,A115,,,,
+Purrloin,,,,509,purrloin,0509,044,,,,H053
+Liepard,,,,510,liepard,0510,045,,,,H054
+Pansage,,,,511,pansage,0511,,,,,077
+Simisage,,,,512,simisage,0512,,,,,078
+Pansear,,,,513,pansear,0513,,,,,079
+Simisear,,,,514,simisear,0514,,,,,080
+Panpour,,,,515,panpour,0515,,,,,081
+Simipour,,,,516,simipour,0516,,,,,082
+Munna,,,,517,munna,0517,090,,,,H055
+Musharna,,,,518,musharna,0518,091,,,,H056
+Pidove,,,,519,pidove,0519,026,,,,
+Tranquill,,,,520,tranquill,0520,027,,,,
+Unfezant,,,,521,unfezant,0521,028,,,,
+Unfezant,,,-f,521-f,unfezant-f,0521,028,,,,
+Blitzle,,,,522,blitzle,0522,,,,B023,
+Zebstrika,,,,523,zebstrika,0523,,,,B024,
+Roggenrola,,,,524,roggenrola,0524,168,,,,
+Boldore,,,,525,boldore,0525,169,,,,
+Gigalith,,,,526,gigalith,0526,170,,,,
+Woobat,,,,527,woobat,0527,174,,,,
+Swoobat,,,,528,swoobat,0528,175,,,,
+Drilbur,,,,529,drilbur,0529,166,,,B099,120
+Excadrill,,,,530,excadrill,0530,167,,,B100,121
+Audino,,,,531,audino,0531,C021,,,,095
+Timburr,,,,532,timburr,0532,171,,,K085,
+Gurdurr,,,,533,gurdurr,0533,172,,,K086,
+Conkeldurr,,,,534,conkeldurr,0534,173,,,K087,
+Tympole,,,,535,tympole,0535,132,,,,
+Palpitoad,,,,536,palpitoad,0536,133,,,,
+Seismitoad,,,,537,seismitoad,0537,134,,,,
+Throh,,,,538,throh,0538,248,,,,H057
+Sawk,,,,539,sawk,0539,249,,,,H058
+Sewaddle,,,,540,sewaddle,0540,,,,K013,
+Swadloon,,,,541,swadloon,0541,,,,K014,
+Leavanny,,,,542,leavanny,0542,,,,K015,
+Venipede,,,,543,venipede,0543,A074,,,,068
+Whirlipede,,,,544,whirlipede,0544,A075,,,,069
+Scolipede,,,,545,scolipede,0545,A076,,,,070
+Cottonee,,,,546,cottonee,0546,262,,,B056,
+Whimsicott,,,,547,whimsicott,0547,263,,,B057,
+Petilil,,,,548,petilil,0548,A201,,093,P104,
+Lilligant,Original,,,549,lilligant,0549,A202,,,P105,
+Lilligant,Hisuian,-1,,549-1,lilligant-1,0549,,,094,P105,
+Basculin,Red Stripe,,,550,basculin,0550,154,,,P138,
+Basculin,Blue Stripe,-1,,550-1,basculin-1,0550,154,,,P138,
+Basculin,White Stripe,-2,,550-2,basculin-2,0550,154,,166,K194,
+Sandile,,,,551,sandile,0551,A176,,,P267,122
+Krokorok,,,,552,krokorok,0552,A177,,,P268,123
+Krookodile,,,,553,krookodile,0553,A178,,,P269,124
+Darumaka,Original,,,554,darumaka,0554,367,,,,
+Darumaka,Galarian,-1,,554-1,darumaka-1,0554,367,,,,
+Darmanitan,Original,,,555,darmanitan,0555,368,,,,
+Darmanitan,Galarian,-1,,555-1,darmanitan-1,0555,368,,,,
+Maractus,,,,556,maractus,0556,296,,,,
+Dwebble,,,,557,dwebble,0557,086,,,,
+Crustle,,,,558,crustle,0558,087,,,,
+Scraggy,,,,559,scraggy,0559,224,,,B121,184
+Scrafty,,,,560,scrafty,0560,225,,,B122,185
+Sigilyph,,,,561,sigilyph,0561,297,,,,
+Yamask,Original,,,562,yamask,0562,327,,,,H059
+Yamask,Galarian,-1,,562-1,yamask-1,0562,327,,,,H059
+Cofagrigus,,,,563,cofagrigus,0563,329,,,,H060
+Tirtouga,,,,564,tirtouga,0564,C147,,,,
+Carracosta,,,,565,carracosta,0565,C148,,,,
+Archen,,,,566,archen,0566,C149,,,,
+Archeops,,,,567,archeops,0567,C150,,,,
+Trubbish,,,,568,trubbish,0568,157,,,,049
+Garbodor,,,,569,garbodor,0569,158,,,,050
+Zorua,Original,,,570,zorua,0570,A087,,,P228,
+Zorua,Hisuian,-1,,570-1,zorua-1,0570,,,219,P228,
+Zoroark,Original,,,571,zoroark,0571,A088,,,P229,
+Zoroark,Hisuian,-1,,571-1,zoroark-1,0571,,,220,P229,
+Minccino,,,,572,minccino,0572,050,,,B111,
+Cinccino,,,,573,cinccino,0573,051,,,B112,
+Gothita,,,,574,gothita,0574,267,,,P234,
+Gothorita,,,,575,gothorita,0575,268,,,P235,
+Gothitelle,,,,576,gothitelle,0576,269,,,P236,
+Solosis,,,,577,solosis,0577,270,,,B148,
+Duosion,,,,578,duosion,0578,271,,,B149,
+Reuniclus,,,,579,reuniclus,0579,272,,,B150,
+Ducklett,,,,580,ducklett,0580,,,,K181,
+Swanna,,,,581,swanna,0581,,,,K182,
+Vanillite,,,,582,vanillite,0582,072,,,,113
+Vanillish,,,,583,vanillish,0583,073,,,,114
+Vanilluxe,,,,584,vanilluxe,0584,074,,,,115
+Deerling,Spring,,,585,deerling,0585,,,,P190,
+Deerling,Summer,-1,,585-1,deerling-1,0585,,,,P190,
+Deerling,Fall,-2,,585-2,deerling-2,0585,,,,P190,
+Deerling,Winter,-3,,585-3,deerling-3,0585,,,,P190,
+Sawsbuck,Spring,,,586,sawsbuck,0586,,,,P191,
+Sawsbuck,Summer,-1,,586-1,sawsbuck-1,0586,,,,P191,
+Sawsbuck,Fall,-2,,586-2,sawsbuck-2,0586,,,,P191,
+Sawsbuck,Winter,-3,,586-3,sawsbuck-3,0586,,,,P191,
+Emolga,,,,587,emolga,0587,A102,,,,180
+Karrablast,,,,588,karrablast,0588,273,,,,
+Escavalier,,,,589,escavalier,0589,274,,,,
+Foongus,,,,590,foongus,0590,A077,,,P205,H111
+Amoonguss,,,,591,amoonguss,0591,A078,,,P206,H112
+Frillish,,,,592,frillish,0592,305,,,,
+Frillish,,,-f,592-f,frillish-f,0592,305,,,,
+Jellicent,,,,593,jellicent,0593,306,,,,
+Jellicent,,,-f,593-f,jellicent-f,0593,306,,,,
+Alomomola,,,,594,alomomola,0594,,,,P336,
+Joltik,,,,595,joltik,0595,064,,,B132,
+Galvantula,,,,596,galvantula,0596,065,,,B133,
+Ferroseed,,,,597,ferroseed,0597,189,,,,
+Ferrothorn,,,,598,ferrothorn,0598,190,,,,
+Klink,,,,599,klink,0599,113,,,,
+Klang,,,,600,klang,0600,114,,,,
+Klinklang,,,,601,klinklang,0601,115,,,,
+Tynamo,,,,602,tynamo,0602,,,,P341,142
+Eelektrik,,,,603,eelektrik,0603,,,,P342,143
+Eelektross,,,,604,eelektross,0604,,,,P343,144
+Elgyem,,,,605,elgyem,0605,277,,,,
+Beheeyem,,,,606,beheeyem,0606,278,,,,
+Litwick,,,,607,litwick,0607,287,,,K146,189
+Lampent,,,,608,lampent,0608,288,,,K147,190
+Chandelure,,,,609,chandelure,0609,289,,,K148,191
+Axew,,,,610,axew,0610,324,,,P155,
+Fraxure,,,,611,fraxure,0611,325,,,P156,
+Haxorus,,,,612,haxorus,0612,326,,,P157,
+Cubchoo,,,,613,cubchoo,0613,279,,,P355,
+Beartic,,,,614,beartic,0614,280,,,P356,
+Cryogonal,,,,615,cryogonal,0615,C030,,,P360,H029
+Shelmet,,,,616,shelmet,0616,275,,,,
+Accelgor,,,,617,accelgor,0617,276,,,,
+Stunfisk,Original,,,618,stunfisk,0618,226,,,,157
+Stunfisk,Galarian,-1,,618-1,stunfisk-1,0618,226,,,,157
+Mienfoo,,,,619,mienfoo,0619,A163,,,K137,
+Mienshao,,,,620,mienshao,0620,A164,,,K138,
+Druddigon,,,,621,druddigon,0621,A063,,,,
+Golett,,,,622,golett,0622,088,,,B123,H071
+Golurk,,,,623,golurk,0623,089,,,B124,H072
+Pawniard,,,,624,pawniard,0624,246,,,P367,
+Bisharp,,,,625,bisharp,0625,247,,,P368,
+Bouffalant,,,,626,bouffalant,0626,A053,,,,
+Rufflet,,,,627,rufflet,0627,281,,221,P365,
+Braviary,Original,,,628,braviary,0628,282,,,P366,
+Braviary,Hisuian,-1,,628-1,braviary-1,0628,,,222,P366,
+Vullaby,,,,629,vullaby,0629,283,,,K127,
+Mandibuzz,,,,630,mandibuzz,0630,284,,,K128,
+Heatmor,,,,631,heatmor,0631,317,,,,
+Durant,,,,632,durant,0632,316,,,,
+Deino,,,,633,deino,0633,386,,,P370,
+Zweilous,,,,634,zweilous,0634,387,,,P371,
+Hydreigon,,,,635,hydreigon,0635,388,,,P372,
+Larvesta,,,,636,larvesta,0636,A186,,,P274,
+Volcarona,,,,637,volcarona,0637,A187,,,P275,
+Cobalion,,,,638,cobalion,0638,C205,,,,H115
+Terrakion,,,,639,terrakion,0639,C206,,,,H116
+Virizion,,,,640,virizion,0640,C207,,,,H117
+Tornadus,Incarnate,,,641,tornadus,0641,,,231,,
+Tornadus,Therian,-1,,641-1,tornadus-1,0641,,,231,,
+Thundurus,Incarnate,,,642,thundurus,0642,,,232,,
+Thundurus,Therian,-1,,642-1,thundurus-1,0642,,,232,,
+Reshiram,,,,643,reshiram,0643,,,,,
+Zekrom,,,,644,zekrom,0644,,,,,
+Landorus,Incarnate,,,645,landorus,0645,,,233,,
+Landorus,Therian,-1,,645-1,landorus-1,0645,,,233,,
+Kyurem,,,,646,kyurem,0646,,,,,
+Keldeo,,,,647,keldeo,0647,,,,,H118
+Keldeo,Resolute,-1,,647-1,keldeo-1,0647,,,,,H118
+Meloetta,,,,648,meloetta,0648,,,,,H119
+Genesect,,,,649,genesect,0649,,,,,H120
+Chespin,,,,650,chespin,0650,,,,B209,213
+Quilladin,,,,651,quilladin,0651,,,,B210,214
+Chesnaught,,,,652,chesnaught,0652,,,,B211,215
+Fennekin,,,,653,fennekin,0653,,,,B212,217
+Braixen,,,,654,braixen,0654,,,,B213,218
+Delphox,,,,655,delphox,0655,,,,B214,219
+Froakie,,,,656,froakie,0656,,,,B215,209
+Frogadier,,,,657,frogadier,0657,,,,B216,210
+Greninja,,,,658,greninja,0658,,,,B217,211
+Bunnelby,,,,659,bunnelby,0659,048,,,,013
+Diggersby,,,,660,diggersby,0660,049,,,,014
+Fletchling,,,,661,fletchling,0661,A022,,,P019,010
+Fletchinder,,,,662,fletchinder,0662,A023,,,P020,011
+Talonflame,,,,663,talonflame,0663,A024,,,P021,012
+Scatterbug,,,,664,scatterbug,0664,,,,P035,015
+Spewpa,,,,665,spewpa,0665,,,,P036,016
+Vivillon,Icy Snow,,,666,vivillon,0666,,,,P037,017
+Vivillon,Polar,-1,,666-1,vivillon-1,0666,,,,P037,017
+Vivillon,High Plains,-10,,666-10,vivillon-10,0666,,,,P037,017
+Vivillon,Sandstorm,-11,,666-11,vivillon-11,0666,,,,P037,017
+Vivillon,River,-12,,666-12,vivillon-12,0666,,,,P037,017
+Vivillon,Monsoon,-13,,666-13,vivillon-13,0666,,,,P037,017
+Vivillon,Savanna,-14,,666-14,vivillon-14,0666,,,,P037,017
+Vivillon,Sun,-15,,666-15,vivillon-15,0666,,,,P037,017
+Vivillon,Ocean,-16,,666-16,vivillon-16,0666,,,,P037,017
+Vivillon,Jungle,-17,,666-17,vivillon-17,0666,,,,P037,017
+Vivillon,Fancy,-18,,666-18,vivillon-18,0666,,,,P037,017
+Vivillon,Poké Ball,-19,,666-19,vivillon-19,0666,,,,P037,017
+Vivillon,Tundra,-2,,666-2,vivillon-2,0666,,,,P037,017
+Vivillon,Continental,-3,,666-3,vivillon-3,0666,,,,P037,017
+Vivillon,Garden,-4,,666-4,vivillon-4,0666,,,,P037,017
+Vivillon,Elegant,-5,,666-5,vivillon-5,0666,,,,P037,017
+Vivillon,Meadow,-6,,666-6,vivillon-6,0666,,,,P037,017
+Vivillon,Modern,-7,,666-7,vivillon-7,0666,,,,P037,017
+Vivillon,Marine,-8,,666-8,vivillon-8,0666,,,,P037,017
+Vivillon,Archipelago,-9,,666-9,vivillon-9,0666,,,,P037,017
+Litleo,,,,667,litleo,0667,,,,P224,045
+Pyroar,,,,668,pyroar,0668,,,,P225,046
+Pyroar,,,-f,668-f,pyroar-f,0668,,,,P225,046
+Flabébé,Red Flower,,,669,flabébé,0669,,,,P145,038
+Flabébé,Yellow Flower,-1,,669-1,flabébé-1,0669,,,,P145,038
+Flabébé,Orange Flower,-2,,669-2,flabébé-2,0669,,,,P145,038
+Flabébé,Blue Flower,-3,,669-3,flabébé-3,0669,,,,P145,038
+Flabébé,White Flower,-4,,669-4,flabébé-4,0669,,,,P145,038
+Floette,Red Flower,,,670,floette,0670,,,,P146,039
+Floette,Yellow Flower,-1,,670-1,floette-1,0670,,,,P146,039
+Floette,Orange Flower,-2,,670-2,floette-2,0670,,,,P146,039
+Floette,Blue Flower,-3,,670-3,floette-3,0670,,,,P146,039
+Floette,White Flower,-4,,670-4,floette-4,0670,,,,P146,039
+Floette,Eternal Flower,-5,,670-5,floette-5,0670,,,,,039
+Florges,Red Flower,,,671,florges,0671,,,,P147,040
+Florges,Yellow Flower,-1,,671-1,florges-1,0671,,,,P147,040
+Florges,Orange Flower,-2,,671-2,florges-2,0671,,,,P147,040
+Florges,Blue Flower,-3,,671-3,florges-3,0671,,,,P147,040
+Florges,White Flower,-4,,671-4,florges-4,0671,,,,P147,040
+Skiddo,,,,672,skiddo,0672,,,,P221,041
+Gogoat,,,,673,gogoat,0673,,,,P222,042
+Pancham,,,,674,pancham,0674,111,,,,047
+Pangoro,,,,675,pangoro,0675,112,,,,048
+Furfrou,Normal,,,676,furfrou,0676,,,,,158
+Furfrou,Heart,-1,,676-1,furfrou-1,0676,,,,,158
+Furfrou,Star,-2,,676-2,furfrou-2,0676,,,,,158
+Furfrou,Diamond,-3,,676-3,furfrou-3,0676,,,,,158
+Furfrou,Debutante,-4,,676-4,furfrou-4,0676,,,,,158
+Furfrou,Matron,-5,,676-5,furfrou-5,0676,,,,,158
+Furfrou,Dandy,-6,,676-6,furfrou-6,0676,,,,,158
+Furfrou,La Reine,-7,,676-7,furfrou-7,0676,,,,,158
+Furfrou,Kabuki,-8,,676-8,furfrou-8,0676,,,,,158
+Furfrou,Pharaoh,-9,,676-9,furfrou-9,0676,,,,,158
+Espurr,,,,677,espurr,0677,208,,,B104,043
+Meowstic,,,,678,meowstic,0678,209,,,B105,044
+Meowstic,,,-f,678-f,meowstic-f,0678,209,,,B105,044
+Honedge,,,,679,honedge,0679,330,,,,071
+Doublade,,,,680,doublade,0680,331,,,,072
+Aegislash,,,,681,aegislash,0681,332,,,,073
+Spritzee,,,,682,spritzee,0682,212,,,,096
+Aromatisse,,,,683,aromatisse,0683,213,,,,097
+Swirlix,,,,684,swirlix,0684,210,,,,098
+Slurpuff,,,,685,slurpuff,0685,211,,,,099
+Inkay,,,,686,inkay,0686,290,,,B080,159
+Malamar,,,,687,malamar,0687,291,,,B081,160
+Binacle,,,,688,binacle,0688,234,,,,034
+Barbaracle,,,,689,barbaracle,0689,235,,,,035
+Skrelp,,,,690,skrelp,0690,A194,,,P337,161
+Dragalge,,,,691,dragalge,0691,A195,,,P338,162
+Clauncher,,,,692,clauncher,0692,A196,,,P339,163
+Clawitzer,,,,693,clawitzer,0693,A197,,,P340,164
+Helioptile,,,,694,helioptile,0694,318,,,,202
+Heliolisk,,,,695,heliolisk,0695,319,,,,203
+Tyrunt,,,,696,tyrunt,0696,C083,,,,193
+Tyrantrum,,,,697,tyrantrum,0697,C084,,,,194
+Amaura,,,,698,amaura,0698,C085,,,,195
+Aurorus,,,,699,aurorus,0699,C086,,,,196
+Sylveon,,,,700,sylveon,0700,204,,033,P187,108
+Hawlucha,,,,701,hawlucha,0701,320,,,P301,181
+Dedenne,,,,702,dedenne,0702,A103,,,P200,051
+Carbink,,,,703,carbink,0703,C128,,,K167,131
+Goomy,,,,704,goomy,0704,389,,115,P172,165
+Sliggoo,Original,,,705,sliggoo,0705,390,,,P173,166
+Sliggoo,Hisuian,-1,,705-1,sliggoo-1,0705,,,116,P173,166
+Goodra,Original,,,706,goodra,0706,391,,,P174,167
+Goodra,Hisuian,-1,,706-1,goodra-1,0706,,,117,P174,167
+Klefki,,,,707,klefki,0707,A028,,,P240,188
+Phantump,,,,708,phantump,0708,338,,,K068,182
+Trevenant,,,,709,trevenant,0709,339,,,K069,183
+Pumpkaboo,Average,,,710,pumpkaboo,0710,191,,,,204
+Pumpkaboo,Small,-1,,710-1,pumpkaboo-1,0710,191,,,,204
+Pumpkaboo,Large,-2,,710-2,pumpkaboo-2,0710,191,,,,204
+Pumpkaboo,Super,-3,,710-3,pumpkaboo-3,0710,191,,,,204
+Gourgeist,Average,,,711,gourgeist,0711,192,,,,205
+Gourgeist,Small,-1,,711-1,gourgeist-1,0711,192,,,,205
+Gourgeist,Large,-2,,711-2,gourgeist-2,0711,192,,,,205
+Gourgeist,Super,-3,,711-3,gourgeist-3,0711,192,,,,205
+Bergmite,,,,712,bergmite,0712,358,,215,P363,174
+Avalugg,Original,,,713,avalugg,0713,359,,,P364,175
+Avalugg,Hisuian,-1,,713-1,avalugg-1,0713,,,216,P364,175
+Noibat,,,,714,noibat,0714,176,,,P303,186
+Noivern,,,,715,noivern,0715,177,,,P304,187
+Xerneas,,,,716,xerneas,0716,,,,,228
+Yveltal,,,,717,yveltal,0717,,,,,229
+Zygarde,50%,,,718,zygarde,0718,,,,,230
+Zygarde,10%,-1,,718-1,zygarde-1,0718,,,,,230
+Diancie,,,,719,diancie,0719,,,,,
+Hoopa,,,,720,hoopa,0720,,,,,H121
+Hoopa,Unbound,-1,,720-1,hoopa-1,0720,,,,,H121
+Volcanion,,,,721,volcanion,0721,,,,,H114
+Rowlet,,,,722,rowlet,0722,,,001,B218,
+Dartrix,,,,723,dartrix,0723,,,002,B219,
+Decidueye,Original,,,724,decidueye,0724,,,,B220,
+Decidueye,Hisuian,-1,,724-1,decidueye-1,0724,,,003,B220,
+Litten,,,,725,litten,0725,,,,B221,
+Torracat,,,,726,torracat,0726,,,,B222,
+Incineroar,,,,727,incineroar,0727,,,,B223,
+Popplio,,,,728,popplio,0728,,,,B224,
+Brionne,,,,729,brionne,0729,,,,B225,
+Primarina,,,,730,primarina,0730,,,,B226,
+Pikipek,,,,731,pikipek,0731,,,,B047,
+Trumbeak,,,,732,trumbeak,0732,,,,B048,
+Toucannon,,,,733,toucannon,0733,,,,B049,
+Yungoos,,,,734,yungoos,0734,,,,P027,
+Gumshoos,,,,735,gumshoos,0735,,,,P028,
+Grubbin,,,,736,grubbin,0736,016,,,K112,
+Charjabug,,,,737,charjabug,0737,017,,,K113,
+Vikavolt,,,,738,vikavolt,0738,018,,,K114,
+Crabrawler,,,,739,crabrawler,0739,,,,P118,H087
+Crabominable,,,,740,crabominable,0740,,,,P119,H088
+Oricorio,Baile Style,,,741,oricorio,0741,,,,P100,
+Oricorio,Pom-Pom Style,-1,,741-1,oricorio-1,0741,,,,P100,
+Oricorio,Pa'u Style,-2,,741-2,oricorio-2,0741,,,,P100,
+Oricorio,Sensu Style,-3,,741-3,oricorio-3,0741,,,,P100,
+Cutiefly,,,,742,cutiefly,0742,187,,,K016,
+Ribombee,,,,743,ribombee,0743,188,,,K017,
+Rockruff,,,,744,rockruff,0744,A157,,,P089,
+Lycanroc,Midday,,,745,lycanroc,0745,A158,,,P090,
+Lycanroc,Midnight,-1,,745-1,lycanroc-1,0745,A158,,,P090,
+Lycanroc,Dusk,-2,,745-2,lycanroc-2,0745,A158,,,P090,
+Wishiwashi,,,,746,wishiwashi,0746,155,,,,
+Mareanie,,,,747,mareanie,0747,307,,,P344,
+Toxapex,,,,748,toxapex,0748,308,,,P345,
+Mudbray,,,,749,mudbray,0749,084,,,P272,
+Mudsdale,,,,750,mudsdale,0750,085,,,P273,
+Dewpider,,,,751,dewpider,0751,214,,,B090,
+Araquanid,,,,752,araquanid,0752,215,,,B091,
+Fomantis,,,,753,fomantis,0753,A017,,,P247,
+Lurantis,,,,754,lurantis,0754,A018,,,P248,
+Morelull,,,,755,morelull,0755,340,,,,
+Shiinotic,,,,756,shiinotic,0756,341,,,,
+Salandit,,,,757,salandit,0757,244,,,P120,
+Salazzle,,,,758,salazzle,0758,245,,,P121,
+Stufful,,,,759,stufful,0759,094,,,,
+Bewear,,,,760,bewear,0760,095,,,,
+Bounsweet,,,,761,bounsweet,0761,052,,,P081,
+Steenee,,,,762,steenee,0762,053,,,P082,
+Tsareena,,,,763,tsareena,0763,054,,,P083,
+Comfey,,,,764,comfey,0764,A079,,,B058,
+Oranguru,,,,765,oranguru,0765,342,,,P313,
+Passimian,,,,765,passimian,0765,343,,,P314,
+Wimpod,,,,767,wimpod,0767,232,,,,H062
+Golisopod,,,,768,golisopod,0768,233,,,,H063
+Sandygast,,,,769,sandygast,0769,A133,,,P322,H025
+Palossand,,,,770,palossand,0770,A134,,,P323,H026
+Pyukumuku,,,,771,pyukumuku,0771,156,,,,
+Type: Null,,,,772,type: null,0772,,,,,
+Silvally,,,,773,silvally,0773,382,,,,
+Minior,Red Core,,,774,minior,0774,,,,B106,
+Minior,Orange Core,-1,,774-1,minior-1,0774,,,,B106,
+Minior,Yellow Core,-2,,774-2,minior-2,0774,,,,B106,
+Minior,Green Core,-3,,774-3,minior-3,0774,,,,B106,
+Minior,Blue Core,-4,,774-4,minior-4,0774,,,,B106,
+Minior,Indigo Core,-5,,774-5,minior-5,0774,,,,B106,
+Minior,Violet Core,-6,,774-6,minior-6,0774,,,,B106,
+Komala,,,,775,komala,0775,,,,P315,
+Turtonator,,,,776,turtonator,0776,347,,,,
+Togedemaru,,,,777,togedemaru,0777,348,,,,
+Mimikyu,,,,778,mimikyu,0778,301,,,P239,H068
+Bruxish,,,,779,bruxish,0779,,,,P335,
+Drampa,,,,780,drampa,0780,346,,,,224
+Dhelmise,,,,781,dhelmise,0781,360,,,,
+Jangmo-o,,,,782,jangmo-o,0782,392,,,K131,
+Hakamo-o,,,,783,hakamo-o,0783,393,,,K132,
+Kommo-o,,,,784,kommo-o,0784,394,,,K133,
+Tapu Koko,,,,785,tapu koko,0785,,,,,
+Tapu Lele,,,,786,tapu lele,0786,,,,,
+Tapu Bulu,,,,787,tapu bulu,0787,,,,,
+Tapu Fini,,,,788,tapu fini,0788,,,,,
+Cosmog,,,,789,cosmog,0789,,,,,
+Cosmoem,,,,790,cosmoem,0790,,,,,
+Solgaleo,,,,791,solgaleo,0791,,,,,
+Lunala,,,,792,lunala,0792,,,,,
+Nihilego,,,,793,nihilego,0793,,,,,
+Buzzwole,,,,794,buzzwole,0794,,,,,
+Pheromosa,,,,795,pheromosa,0795,,,,,
+Xurkitree,,,,796,xurkitree,0796,,,,,
+Celesteela,,,,797,celesteela,0797,,,,,
+Kartana,,,,798,kartana,0798,,,,,
+Guzzlord,,,,799,guzzlord,0799,,,,,
+Necrozma,,,,800,necrozma,0800,,,,,
+Magearna,Basic,,,801,magearna,0801,,,,,H130
+Magearna,Original Pokeball,-1,,801-1,magearna-1,0801,,,,,H130
+Marshadow,,,,802,marshadow,0802,,,,,H122
+Poipole,,,,803,poipole,0803,,,,,
+Naganadel,,,,804,naganadel,0804,,,,,
+Stakataka,,,,805,stakataka,0805,,,,,
+Blacephalon,,,,806,blacephalon,0806,,,,,
+Zeraora,,,,807,zeraora,0807,,,,,H130
+Meltan,,,,808,meltan,0808,,,,,H123
+Melmetal,,,,809,melmetal,0809,,,,,H124
+Grookey,,,,810,grookey,0810,001,,,B227,
+Thwackey,,,,811,thwackey,0811,002,,,B228,
+Rillaboom,,,,812,rillaboom,0812,003,,,B229,
+Scorbunny,,,,813,scorbunny,0813,004,,,B230,
+Raboot,,,,814,raboot,0814,005,,,B231,
+Cinderace,,,,815,cinderace,0815,006,,,B232,
+Sobble,,,,816,sobble,0816,007,,,B233,
+Drizzile,,,,817,drizzile,0817,008,,,B234,
+Inteleon,,,,818,inteleon,0818,009,,,B235,
+Skwovet,,,,819,skwovet,0819,024,,,P029,
+Greedent,,,,820,greedent,0820,025,,,P030,
+Rookidee,,,,821,rookidee,0821,021,,,P040,H073
+Corvisquire,,,,822,corvisquire,0822,022,,,P041,H074
+Corviknight,,,,823,corviknight,0823,023,,,P042,H075
+Blipbug,,,,824,blipbug,0824,010,,,,
+Dottler,,,,825,dottler,0825,011,,,,
+Orbeetle,,,,826,orbeetle,0826,012,,,,
+Nickit,,,,827,nickit,0827,029,,,,H064
+Thievul,,,,828,thievul,0828,030,,,,H065
+Gossifleur,,,,829,gossifleur,0829,126,,,,
+Eldegoss,,,,830,eldegoss,0830,127,,,,
+Wooloo,,,,831,wooloo,0831,034,,,,
+Dubwool,,,,832,dubwool,0832,035,,,,
+Chewtle,,,,833,chewtle,0833,042,,,P057,
+Drednaw,,,,834,drednaw,0834,043,,,P058,
+Yamper,,,,835,yamper,0835,046,,,,
+Boltund,,,,836,boltund,0836,047,,,,
+Rolycoly,,,,837,rolycoly,0837,161,,,P091,
+Carkol,,,,838,carkol,0838,162,,,P092,
+Coalossal,,,,839,coalossal,0839,163,,,P093,
+Applin,,,,840,applin,0840,205,,,P108,
+Flapple,,,,841,flapple,0841,206,,,P109,
+Appletun,,,,842,appletun,0842,207,,,P110,
+Silicobra,,,,843,silicobra,0843,312,,,P270,
+Sandaconda,,,,844,sandaconda,0844,313,,,P271,
+Cramorant,,,,845,cramorant,0845,309,,,K185,
+Arrokuda,,,,846,arrokuda,0846,180,,,P136,
+Barraskewda,,,,847,barraskewda,0847,181,,,P137,
+Toxel,,,,848,toxel,0848,310,,,P198,H102
+Toxtricity,Amped,,,849,toxtricity,0849,311,,,P199,H103
+Toxtricity,Low Key,-1,,849-1,toxtricity-1,0849,311,,,P199,H103
+Sizzlipede,,,,850,sizzlipede,0850,159,,,,
+Centiskorch,,,,851,centiskorch,0851,160,,,,
+Clobbopus,,,,852,clobbopus,0852,351,,,,H066
+Grapploct,,,,853,grapploct,0853,352,,,,H067
+Sinistea,Phony Form,,,854,sinistea,0854,335,,,P237,
+Sinistea,Antique Form,-1,,854-1,sinistea-1,0854,335,,,P237,
+Polteageist,Phony Form,,,855,polteageist,0855,336,,,P238,
+Polteageist,Antique Form,-1,,855-1,polteageist-1,0855,336,,,P238,
+Hatenna,,,,856,hatenna,0856,241,,,P282,
+Hattrem,,,,857,hattrem,0857,242,,,P283,
+Hatterene,,,,858,hatterene,0858,243,,,P284,
+Impidimp,,,,859,impidimp,0859,238,,,P285,
+Morgrem,,,,860,morgrem,0860,239,,,P286,
+Grimmsnarl,,,,861,grimmsnarl,0861,240,,,P287,
+Obstagoon,,,,862,obstagoon,0862,033,,,,
+Perrserker,,,,863,perrserker,0863,183,,,,H006
+Cursola,,,,864,cursola,0864,237,,,,
+Sirfetch'd,,,,865,sirfetch'd,0865,219,,,,H008
+Mr. Rime,,,,866,mr. rime,0866,C012,,,,H110
+Runerigus,,,,867,runerigus,0867,328,,,,H061
+Milcery,,,,868,milcery,0868,185,,,B042,
+Alcremie,"Vanilla Cream, Strawberry ",,,869,alcremie,0869,186,,,B043,
+Alcremie,"Ruby Cream, Strawberry ",-1,,869-1,alcremie-1,0869,186,,,B043,
+Alcremie,"Ruby Cream, Berry ",-1,-a,869-1-a,alcremie-1-a,0869,186,,,B043,
+Alcremie,"Ruby Cream, Love ",-1,-b,869-1-b,alcremie-1-b,0869,186,,,B043,
+Alcremie,"Ruby Cream, Star ",-1,-c,869-1-c,alcremie-1-c,0869,186,,,B043,
+Alcremie,"Ruby Cream, Clover ",-1,-d,869-1-d,alcremie-1-d,0869,186,,,B043,
+Alcremie,"Ruby Cream, Flower ",-1,-e,869-1-e,alcremie-1-e,0869,186,,,B043,
+Alcremie,"Ruby Cream, Ribbon ",-1,-f,869-1-f,alcremie-1-f,0869,186,,,B043,
+Alcremie,"Matcha Cream, Strawberry ",-2,,869-2,alcremie-2,0869,186,,,B043,
+Alcremie,"Matcha Cream, Berry ",-2,-a,869-2-a,alcremie-2-a,0869,186,,,B043,
+Alcremie,"Matcha Cream, Love ",-2,-b,869-2-b,alcremie-2-b,0869,186,,,B043,
+Alcremie,"Matcha Cream, Star ",-2,-c,869-2-c,alcremie-2-c,0869,186,,,B043,
+Alcremie,"Matcha Cream, Clover ",-2,-d,869-2-d,alcremie-2-d,0869,186,,,B043,
+Alcremie,"Matcha Cream, Flower ",-2,-e,869-2-e,alcremie-2-e,0869,186,,,B043,
+Alcremie,"Matcha Cream, Ribbon ",-2,-f,869-2-f,alcremie-2-f,0869,186,,,B043,
+Alcremie,"Mint Cream, Strawberry ",-3,,869-3,alcremie-3,0869,186,,,B043,
+Alcremie,"Mint Cream, Berry ",-3,-a,869-3-a,alcremie-3-a,0869,186,,,B043,
+Alcremie,"Mint Cream, Love ",-3,-b,869-3-b,alcremie-3-b,0869,186,,,B043,
+Alcremie,"Mint Cream, Star ",-3,-c,869-3-c,alcremie-3-c,0869,186,,,B043,
+Alcremie,"Mint Cream, Clover ",-3,-d,869-3-d,alcremie-3-d,0869,186,,,B043,
+Alcremie,"Mint Cream, Flower ",-3,-e,869-3-e,alcremie-3-e,0869,186,,,B043,
+Alcremie,"Mint Cream, Ribbon ",-3,-f,869-3-f,alcremie-3-f,0869,186,,,B043,
+Alcremie,"Lemon Cream, Strawberry ",-4,,869-4,alcremie-4,0869,186,,,B043,
+Alcremie,"Lemon Cream, Berry ",-4,-a,869-4-a,alcremie-4-a,0869,186,,,B043,
+Alcremie,"Lemon Cream, Love ",-4,-b,869-4-b,alcremie-4-b,0869,186,,,B043,
+Alcremie,"Lemon Cream, Star ",-4,-c,869-4-c,alcremie-4-c,0869,186,,,B043,
+Alcremie,"Lemon Cream, Clover ",-4,-d,869-4-d,alcremie-4-d,0869,186,,,B043,
+Alcremie,"Lemon Cream, Flower ",-4,-e,869-4-e,alcremie-4-e,0869,186,,,B043,
+Alcremie,"Lemon Cream, Ribbon ",-4,-f,869-4-f,alcremie-4-f,0869,186,,,B043,
+Alcremie,"Salted Cream, Strawberry ",-5,,869-5,alcremie-5,0869,186,,,B043,
+Alcremie,"Salted Cream, Berry ",-5,-a,869-5-a,alcremie-5-a,0869,186,,,B043,
+Alcremie,"Salted Cream, Love ",-5,-b,869-5-b,alcremie-5-b,0869,186,,,B043,
+Alcremie,"Salted Cream, Star ",-5,-c,869-5-c,alcremie-5-c,0869,186,,,B043,
+Alcremie,"Salted Cream, Clover ",-5,-d,869-5-d,alcremie-5-d,0869,186,,,B043,
+Alcremie,"Salted Cream, Flower ",-5,-e,869-5-e,alcremie-5-e,0869,186,,,B043,
+Alcremie,"Salted Cream, Ribbon ",-5,-f,869-5-f,alcremie-5-f,0869,186,,,B043,
+Alcremie,"Ruby Swirl, Strawberry ",-6,,869-6,alcremie-6,0869,186,,,B043,
+Alcremie,"Ruby Swirl, Berry ",-6,-a,869-6-a,alcremie-6-a,0869,186,,,B043,
+Alcremie,"Ruby Swirl, Love ",-6,-b,869-6-b,alcremie-6-b,0869,186,,,B043,
+Alcremie,"Ruby Swirl, Star ",-6,-c,869-6-c,alcremie-6-c,0869,186,,,B043,
+Alcremie,"Ruby Swirl, Clover ",-6,-d,869-6-d,alcremie-6-d,0869,186,,,B043,
+Alcremie,"Ruby Swirl, Flower ",-6,-e,869-6-e,alcremie-6-e,0869,186,,,B043,
+Alcremie,"Ruby Swirl, Ribbon ",-6,-f,869-6-f,alcremie-6-f,0869,186,,,B043,
+Alcremie,"Caramel Swirl, Strawberry ",-7,,869-7,alcremie-7,0869,186,,,B043,
+Alcremie,"Caramel Swirl, Berry ",-7,-a,869-7-a,alcremie-7-a,0869,186,,,B043,
+Alcremie,"Caramel Swirl, Love ",-7,-b,869-7-b,alcremie-7-b,0869,186,,,B043,
+Alcremie,"Caramel Swirl, Star ",-7,-c,869-7-c,alcremie-7-c,0869,186,,,B043,
+Alcremie,"Caramel Swirl, Clover ",-7,-d,869-7-d,alcremie-7-d,0869,186,,,B043,
+Alcremie,"Caramel Swirl, Flower ",-7,-e,869-7-e,alcremie-7-e,0869,186,,,B043,
+Alcremie,"Caramel Swirl, Ribbon ",-7,-f,869-7-f,alcremie-7-f,0869,186,,,B043,
+Alcremie,"Rainbow Swirl, Strawberry ",-8,,869-8,alcremie-8,0869,186,,,B043,
+Alcremie,"Rainbow Swirl, Berry ",-8,-a,869-8-a,alcremie-8-a,0869,186,,,B043,
+Alcremie,"Rainbow Swirl, Love ",-8,-b,869-8-b,alcremie-8-b,0869,186,,,B043,
+Alcremie,"Rainbow Swirl, Star ",-8,-c,869-8-c,alcremie-8-c,0869,186,,,B043,
+Alcremie,"Rainbow Swirl, Clover ",-8,-d,869-8-d,alcremie-8-d,0869,186,,,B043,
+Alcremie,"Rainbow Swirl, Flower ",-8,-e,869-8-e,alcremie-8-e,0869,186,,,B043,
+Alcremie,"Rainbow Swirl, Ribbon ",-8,-f,869-8-f,alcremie-8-f,0869,186,,,B043,
+Alcremie,"Vanilla Cream, Berry ",,-a,869-a,alcremie-a,0869,186,,,B043,
+Alcremie,"Vanilla Cream, Love ",,-b,869-b,alcremie-b,0869,186,,,B043,
+Alcremie,"Vanilla Cream, Star ",,-c,869-c,alcremie-c,0869,186,,,B043,
+Alcremie,"Vanilla Cream, Clover ",,-d,869-d,alcremie-d,0869,186,,,B043,
+Alcremie,"Vanilla Cream, Flower ",,-e,869-e,alcremie-e,0869,186,,,B043,
+Alcremie,"Vanilla Cream, Ribbon ",,-f,869-f,alcremie-f,0869,186,,,B043,
+Falinks,,,,870,falinks,0870,345,,,P300,212
+Pincurchin,,,,871,pincurchin,0871,353,,,P321,
+Snom,,,,872,snom,0872,349,,,P350,
+Frosmoth,,,,873,frosmoth,0873,350,,,P351,
+Stonjourner,,,,874,stonjourner,0874,369,,,P319,
+Eiscue,,,,875,eiscue,0875,370,,,P320,
+Indeedee,,,,876,indeedee,0876,337,,,P241,H052
+Indeedee,,,-f,876-f,indeedee-f,0876,337,,,P241,H052
+Morpeko,,,,877,morpeko,0877,344,,,K095,H070
+Cufant,,,,878,cufant,0878,302,,,P124,
+Copperajah,,,,879,copperajah,0879,303,,,P125,
+Dracozolt,,,,880,dracozolt,0880,374,,,,
+Arctozolt,,,,881,arctozolt,0881,375,,,,
+Dracovish,,,,882,dracovish,0882,376,,,,
+Arctovish,,,,883,arctovish,0883,377,,,,
+Duraludon,,,,884,duraludon,0884,371,,,B161,
+Dreepy,,,,885,dreepy,0885,395,,,P305,
+Drakloak,,,,886,drakloak,0886,396,,,P306,
+Dragapult,,,,887,dragapult,0887,397,,,P307,
+Zacian,,,,888,zacian,0888,398,,,,
+Zamazenta,,,,889,zamazenta,0889,399,,,,
+Eternatus,,,,890,eternatus,0890,400,,,,
+Kubfu,,,,891,kubfu,0891,A100,,,,
+Urshifu,Single Strike,,,892,urshifu,0892,A101,,,,
+Urshifu,Rapid Strike,-1,,892-1,urshifu-1,0892,A101,,,,
+Zarude,Normal,,,893,zarude,0893,A211,,,,
+Zarude,Dada,-1,,893-1,zarude-1,0893,A211,,,,
+Regieleki,,,,894,regieleki,0894,C200,,,,
+Regidrago,,,,895,regidrago,0895,C201,,,,
+Glastrier,,,,896,glastrier,0896,C208,,,,
+Spectrier,,,,897,spectrier,0897,C209,,,,
+Calyrex,,,,898,calyrex,0898,C210,,,,
+Wyrdeer,,,,899,wyrdeer,0899,,,,,
+Kleavor,,,,900,kleavor,0900,,,073,B021,H069
+Ursaluna,,,,901,ursaluna,0901,,,114,K196,
+Ursaluna,Bloodmoon,-1,,901-1,ursaluna-1,0901,,,,K196,
+Basculegion,,,,902,basculegion,0902,,,167,K195,
+Basculegion,,,-f,902-f,basculegion-f,0902,,,167,K195,
+Sneasler,,,,903,sneasler,0903,,,203,,
+Overqwil,,,,904,overqwil,0904,,,085,B147,H038
+Enamorus,Incarnate,,,905,enamorus,0905,,,234,,
+Enamorus,Therian,-1,,905-1,enamorus-1,0905,,,234,,
+Sprigatito,,,,906,sprigatito,0906,,,,P001,
+Floragato,,,,907,floragato,0907,,,,P002,
+Meowscarada,,,,908,meowscarada,0908,,,,P003,
+Fuecoco,,,,909,fuecoco,0909,,,,P004,
+Crocalor,,,,910,crocalor,0910,,,,P005,
+Skeledirge,,,,911,skeledirge,0911,,,,P006,
+Quaxly,,,,912,quaxly,0912,,,,P007,
+Quaxwell,,,,913,quaxwell,0913,,,,P008,
+Quaquaval,,,,914,quaquaval,0914,,,,P009,
+Lechonk,,,,915,lechonk,0915,,,,P010,
+Oinkologne,,,,916,oinkologne,0916,,,,P011,
+Oinkologne,,,-f,916-f,oinkologne-f,0916,,,,P011,
+Tarountula,,,,917,tarountula,0917,,,,P012,
+Spidops,,,,918,spidops,0918,,,,P013,
+Nymble,,,,919,nymble,0919,,,,P014,
+Lokix,,,,920,lokix,0920,,,,P015,
+Pawmi,,,,921,pawmi,0921,,,,P022,
+Pawmo,,,,922,pawmo,0922,,,,P023,
+Pawmot,,,,923,pawmot,0923,,,,P024,
+Tandemaus,,,,924,tandemaus,0924,,,,P071,
+Maushold,Family of 3,,,925,maushold,0925,,,,P072,
+Maushold,Family of 4,-1,,925-1,maushold-1,0925,,,,P072,
+Fidough,,,,926,fidough,0926,,,,P076,H079
+Dachsbun,,,,927,dachsbun,0927,,,,P077,H080
+Smoliv,,,,928,smoliv,0928,,,,P084,
+Dolliv,,,,929,dolliv,0929,,,,P085,
+Arboliva,,,,930,arboliva,0930,,,,P086,
+Squawkabilly,Green,,,931,squawkabilly,0931,,,,P113,H086
+Squawkabilly,Blue,-1,,931-1,squawkabilly-1,0931,,,,P113,H086
+Squawkabilly,Yellow,-2,,931-2,squawkabilly-2,0931,,,,P113,H086
+Squawkabilly,White,-3,,931-3,squawkabilly-3,0931,,,,P113,H086
+Nacli,,,,932,nacli,0932,,,,P129,H089
+Naclstack,,,,933,naclstack,0933,,,,P130,H090
+Garganacl,,,,934,garganacl,0934,,,,P131,H091
+Charcadet,,,,935,charcadet,0935,,,,P165,H097
+Armarouge,,,,936,armarouge,0936,,,,P166,H098
+Ceruledge,,,,937,ceruledge,0937,,,,P167,H099
+Tadbulb,,,,938,tadbulb,0938,,,,P170,
+Bellibolt,,,,939,bellibolt,0939,,,,P171,
+Wattrel,,,,940,wattrel,0940,,,,P177,
+Kilowattrel,,,,941,kilowattrel,0941,,,,P178,
+Maschiff,,,,942,maschiff,0942,,,,P196,H100
+Mabosstiff,,,,943,mabosstiff,0943,,,,P197,H101
+Shroodle,,,,944,shroodle,0944,,,,P202,H104
+Grafaiai,,,,945,grafaiai,0945,,,,P203,H105
+Bramblin,,,,946,bramblin,0946,,,,P242,
+Brambleghast,,,,947,brambleghast,0947,,,,P243,
+Toedscool,,,,948,toedscool,0948,,,,P244,
+Toedscruel,,,,949,toedscruel,0949,,,,P245,
+Klawf,,,,950,klawf,0950,,,,P249,
+Capsakid,,,,951,capsakid,0951,,,,P250,H014
+Scovillain,,,,952,scovillain,0952,,,,P251,H015
+Rellor,,,,953,rellor,0953,,,,P254,
+Rabsca,,,,954,rabsca,0954,,,,P255,
+Flittle,,,,955,flittle,0955,,,,P263,
+Espathra,,,,956,espathra,0956,,,,P264,
+Tinkatink,,,,957,tinkatink,0957,,,,P279,H016
+Tinkatuff,,,,958,tinkatuff,0958,,,,P280,H017
+Tinkaton,,,,959,tinkaton,0959,,,,P281,H018
+Wiglett,,,,960,wiglett,0960,,,,P288,
+Wugtrio,,,,961,wugtrio,0961,,,,P289,
+Bombirdier,,,,962,bombirdier,0962,,,,P290,
+Finizen,,,,963,finizen,0963,,,,P291,
+Palafin,,,,964,palafin,0964,,,,P292,
+Varoom,,,,965,varoom,0965,,,,P293,
+Revavroom,,,,966,revavroom,0966,,,,P294,
+Cyclizar,,,,967,cyclizar,0967,,,,P295,H019
+Orthworm,,,,968,orthworm,0968,,,,P296,
+Glimmet,,,,969,glimmet,0969,,,,P308,H020
+Glimmora,,,,970,glimmora,0970,,,,P309,H021
+Greavard,,,,971,greavard,0971,,,,P311,H023
+Houndstone,,,,972,houndstone,0972,,,,P312,H024
+Flamigo,,,,973,flamigo,0973,,,,P346,H028
+Cetoddle,,,,974,cetoddle,0974,,,,P361,
+Cetitan,,,,975,cetitan,0975,,,,P362,
+Veluza,,,,976,veluza,0976,,,,P373,
+Dondozo,,,,977,dondozo,0977,,,,P374,H030
+Tatsugiri,Curly,,,978,tatsugiri,0978,,,,P375,H031
+Tatsugiri,Droopy,-1,,978-1,tatsugiri-1,0978,,,,P375,H031
+Tatsugiri,Stretchy,-2,,978-2,tatsugiri-2,0978,,,,P375,H031
+Annihilape,,,,979,annihilape,0979,,,,P160,H003
+Clodsire,,,,980,clodsire,0980,,,,P054,
+Farigiraf,,,,981,farigiraf,0981,,,,P193,
+Dudunsparce,2 Segment,,,982,dudunsparce,0982,,,,P189,
+Dudunsparce,3 Segment,-1,,982-1,dudunsparce-1,0982,,,,P189,
+Kingambit,,,,983,kingambit,0983,,,,P369,
+Great Tusk,,,,984,great tusk,0984,,,,P376,
+Scream Tail,,,,985,scream tail,0985,,,,P377,
+Brute Bonnet,,,,986,brute bonnet,0986,,,,P378,
+Flutter Mane,,,,987,flutter mane,0987,,,,P379,
+Slither Wing,,,,988,slither wing,0988,,,,P380,
+Sandy Shocks,,,,989,sandy shocks,0989,,,,P381,
+Iron Treads,,,,990,iron treads,0990,,,,P382,
+Iron Bundle,,,,991,iron bundle,0991,,,,P383,
+Iron Hands,,,,992,iron hands,0992,,,,P384,
+Iron Jugulis,,,,993,iron jugulis,0993,,,,P385,
+Iron Moth,,,,994,iron moth,0994,,,,P386,
+Iron Thorns,,,,995,iron thorns,0995,,,,P387,
+Frigibax,,,,996,frigibax,0996,,,,P388,H032
+Arctibax,,,,997,arctibax,0997,,,,P389,H033
+Baxcalibur,,,,998,baxcalibur,0998,,,,P390,H034
+Gimmighoul,Chest Form,,,999,gimmighoul,0999,,,,P391,H035
+Gimmighoul,Roaming Form,-1,,999-1,gimmighoul-1,0999,,,,P391,H035
+Gholdengo,,,,1000,gholdengo,1000,,,,P392,H036
+Wo-Chien,,,,1001,wo-chien,1001,,,,P393,
+Chien-Pao,,,,1002,chien-pao,1002,,,,P394,
+Ting-Lu,,,,1003,ting-lu,1003,,,,P395,
+Chi-Yu,,,,1004,chi-yu,1004,,,,P396,
+Roaring Moon,,,,1005,roaring moon,1005,,,,P397,
+Iron Valiant,,,,1006,iron valiant,1006,,,,P398,
+Koraidon,,,,1007,koraidon,1007,,,,P399,
+Miraidon,,,,1008,miraidon,1008,,,,P400,
+Walking wake,,,,1009,walking wake,1009,,,,B241,
+Iron leaves,,,,1010,iron leaves,1010,,,,B242,
+Dipplin,,,,1011,dipplin,1011,,,,K036,
+Poltchageist,Counterfeit,,,1012,poltchageist,1012,,,,K076,
+Poltchageist,Artisan,-1,,1012-1,poltchageist-1,1012,,,,K076,
+Sinistcha,Unremarkable,,,1013,sinistcha,1013,,,,K077,
+Sinistcha,Masterpiece,-1,,1013-1,sinistcha-1,1013,,,,K077,
+Okidogi,,,,1014,okidogi,1014,,,,K197,
+Munkidori,,,,1015,munkidori,1015,,,,K198,
+Fezandipiti,,,,1016,fezandipiti,1016,,,,K199,
+Ogerpon,,,,1017,ogerpon,1017,,,,K200,
+Archaludon,,,,1018,archaludon,1018,,,,B162,
+Hydrapple,,,,1019,hydrapple,1019,,,,B163,
+Gouging Fire,,,,1020,gouging fire,1020,,,,B236,
+Raging Bolt,,,,1021,raging bolt,1021,,,,B237,
+Iron Boulder,,,,1022,iron boulder,1022,,,,B239,
+Iron Crown,,,,1023,iron crown,1023,,,,B238,
+Terapagos,,,,1024,terapagos,1024,,,,B240,
+Pecharunt,,,,1025,pecharunt,1025,,,,,
+Gen,,,,,gen,,,,,,
+Gen,,,,,gen,,,,,,
+Gen,,,,,gen,,,,,,
+Gen,,,,,gen,,,,,,
+Gen,,,,,gen,,,,,,
+Gen,,,,,gen,,,,,,
+Gen,,,,,gen,,,,,,
+Gen,,,,,gen,,,,,,
